@@ -2,7 +2,7 @@
 \contentsline {chapter}{\numberline {2}Planning}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}Chemical Ideas}{3}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Rate of Reactions}{3}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Factors that affect Rate of Reaction}{3}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.2}Factors that Affect the Rate of Reaction}{3}{subsection.2.1.2}
 \contentsline {subsection}{\numberline {2.1.3}Rate Equations}{6}{subsection.2.1.3}
 \contentsline {subsection}{\numberline {2.1.4}Orders of Reactions}{6}{subsection.2.1.4}
 \contentsline {subsection}{\numberline {2.1.5}Finding Rates}{9}{subsection.2.1.5}
@@ -11,7 +11,7 @@
 \contentsline {subsection}{\numberline {2.1.7}Acids}{12}{subsection.2.1.7}
 \contentsline {subsection}{\numberline {2.1.8}Catalysts}{13}{subsection.2.1.8}
 \contentsline {subsection}{\numberline {2.1.9}Transition Metal Catalysts}{14}{subsection.2.1.9}
-\contentsline {subsection}{\numberline {2.1.10}D Orbitals}{14}{subsection.2.1.10}
+\contentsline {subsection}{\numberline {2.1.10}d Orbitals}{14}{subsection.2.1.10}
 \contentsline {subsection}{\numberline {2.1.11}Complexes and their Properties}{15}{subsection.2.1.11}
 \contentsline {subsection}{\numberline {2.1.12}Enthalpy Level Diagrams}{16}{subsection.2.1.12}
 \contentsline {section}{\numberline {2.2}Inventory}{18}{section.2.2}

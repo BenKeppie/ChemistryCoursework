@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  13 FEB 2015 09:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  24 FEB 2015 09:02
 entering extended mode
 **C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
 (C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
@@ -1298,7 +1298,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 14.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 14.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 14.
 Package rerunfilecheck Info: File `coursework.out' has not changed.
-(rerunfilecheck)             Checksum: BC3D896DAB96020821FEDBA8DE1C36AA;1632.
+(rerunfilecheck)             Checksum: 4845288FA0C83CCBC6CE4652D5DEB951;1636.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 14.
  ) 
 Here is how much of TeX's memory you used:
@@ -1322,7 +1322,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on coursework.pdf (27 pages, 618168 bytes).
+Output written on coursework.pdf (27 pages, 618155 bytes).
 PDF statistics:
  418 PDF objects out of 1000 (max. 8388607)
  100 named destinations out of 1000 (max. 500000)

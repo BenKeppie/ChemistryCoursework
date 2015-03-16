@@ -32,8 +32,16 @@
 \contentsline {section}{\numberline {3.2}Techniques}{35}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Order of Adding Reactants}{35}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Spreading the Zinc}{36}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Clean Gas Syringe}{36}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.3}Cleaning the Gas Syringe}{36}{subsection.3.2.3}
 \contentsline {chapter}{\numberline {4}Experiment}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Non-Catalysed Experiment Series}{37}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}2.0 Molar Sulfuric Acid}{37}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}2.4 Molar Sulfuric Acid}{37}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}2.8 Molar Sulfuric Acid}{37}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}3.2 Molar Sulfuric Acid}{37}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}3.6 Molar Sulfuric Acid}{37}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}4.0 Molar Sulfuric Acid}{37}{subsection.4.1.6}
+\contentsline {section}{\numberline {4.2}Copper Sulfate Catalysed Experiment Series}{37}{section.4.2}
 \contentsline {chapter}{\numberline {5}Analysis and Interpretation}{38}{chapter.5}
 \contentsline {section}{\numberline {5.1}Analysis}{38}{section.5.1}
 \contentsline {section}{\numberline {5.2}Interpretation}{38}{section.5.2}

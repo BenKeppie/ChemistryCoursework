@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  3 MAR 2015 21:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.16)  16 MAR 2015 12:12
 entering extended mode
-**C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
-(C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
+**U:/git/ChemistryCoursework/LaTeX/coursework.tex
+(U:/git/ChemistryCoursework/LaTeX/coursework.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -32,7 +32,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \@input{settings.aux}
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\settings.tex
+(U:\git\ChemistryCoursework\LaTeX\settings.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
@@ -250,7 +250,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
@@ -268,18 +268,18 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \lst@lineno=\count93
 \lst@maxwidth=\dimen106
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 \c@lstnumber=\count94
 \lst@skipnumbers=\count95
 \lst@framebox=\box27
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
 Package: listings 2014/09/06 1.5e (Carsten Heinz)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancybox\fancybox.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\fancybox\fancybox.sty
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
@@ -323,7 +323,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mathtools.sty
 Package: mathtools 2014/07/16 v1.15 mathematical typesetting tools
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
@@ -339,7 +339,7 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count99
 \calc@Cskip=\skip45
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mhsetup.sty
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
@@ -492,7 +492,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count116
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -529,10 +529,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip50
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\marvosym\marvosym.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\marvosym\marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip51
 \enit@outerparindent=\dimen132
@@ -548,13 +548,14 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks29
 \@floatcapt=\box34
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algpseudocode
+.sty
 Package: algpseudocode 
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algorithmicx.
+sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -570,13 +571,12 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip54
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+) (C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 \@float@every@algorithm=\toks30
 \c@algorithm=\count132
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\comment\comment.sty"
+) (C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
 \CommentStream=\write4
 
 Excluding comment 'comment')
@@ -606,7 +606,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
 \fancy@headwidth=\skip59
 \f@ncyO@elh=\skip60
 \f@ncyO@erh=\skip61
@@ -617,7 +617,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 \f@ncyO@olf=\skip66
 \f@ncyO@orf=\skip67
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
@@ -634,14 +634,14 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.aux
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux
-) (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.aux))
+(U:\git\ChemistryCoursework\LaTeX\coursework.aux
+(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
+(U:\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
+(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux)
+(U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
+(U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
+(U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
+(U:\git\ChemistryCoursework\LaTeX\References\References.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -658,7 +658,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 \c@lstlisting=\count138
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count139
 \scratchdimen=\dimen134
@@ -686,31 +686,31 @@ LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
 
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.out)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.out)
+(U:\git\ChemistryCoursework\LaTeX\coursework.out)
+(U:\git\ChemistryCoursework\LaTeX\coursework.out)
 \@outlinefile=\write5
  [1
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.tocpdfTeX warning (ext4)
-: destination with the same identifier (name{page.1}) has been already used, du
-plicate ignored
+{C:/Users/31291/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(U:\git\ChemistryCoursework\LaTeX\coursework.tocpdfTeX warning (ext4): destinat
+ion with the same identifier (name{page.1}) has been already used, duplicate ig
+nored
 <to be read again> 
                    \relax 
-l.32 ...nalysis and Interpretation}{31}{chapter.5}
+l.34 ...}Spreading the Zinc}{36}{subsection.3.2.2}
                                                    [1
 
 ])
 \tf@toc=\write6
  [2]
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.tex
+(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.tex
 Chapter 1.
 ) [3
 
 
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.tex
+] (U:\git\ChemistryCoursework\LaTeX\Planning\Planning.tex
 Chapter 2.
 [4
 
@@ -724,7 +724,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
  [5] [6]
-<./Planning/Images/ZeroOrder.jpg, id=229, 237.13594pt x 149.8097pt>
+<./Planning/Images/ZeroOrder.jpg, id=254, 237.13594pt x 149.8097pt>
 File: ./Planning/Images/ZeroOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/ZeroOrder.jpg>
@@ -737,8 +737,8 @@ Package pdftex.def Info: ./Planning/Images/ZeroOrder.jpg used on input line 83.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.106 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/ZeroOrder.jp
-g>] <./Planning/Images/FirstOrder.jpg, id=239, 232.61906pt x 150.5625pt>
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/ZeroOrder.jpg>]
+<./Planning/Images/FirstOrder.jpg, id=264, 232.61906pt x 150.5625pt>
 File: ./Planning/Images/FirstOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/FirstOrder.jpg>
@@ -746,7 +746,7 @@ Package pdftex.def Info: ./Planning/Images/FirstOrder.jpg used on input line 11
 3.
 (pdftex.def)             Requested size: 345.0pt x 223.32292pt.
 
-<./Planning/Images/SecondOrder.jpg, id=240, 229.60782pt x 157.33781pt>
+<./Planning/Images/SecondOrder.jpg, id=265, 229.60782pt x 157.33781pt>
 File: ./Planning/Images/SecondOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/SecondOrder.jpg>
@@ -759,22 +759,22 @@ Package pdftex.def Info: ./Planning/Images/SecondOrder.jpg used on input line 1
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.131 \end{figure}
-                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/
-FirstOrder.jpg>] [10pdfTeX warning (ext4): destination with the same identifier
- (name{figure.2.3}) has been already used, duplicate ignored
+                   <U:/git/ChemistryCoursework/LaTeX/Planning/Images/FirstOrder
+.jpg>] [10pdfTeX warning (ext4): destination with the same identifier (name{fig
+ure.2.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.147 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/SecondOrder.
-jpg>] <./Planning/Images/pHScale.jpg, id=253, 388.45125pt x 351.3125pt>
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/SecondOrder.jpg>]
+<./Planning/Images/pHScale.jpg, id=278, 388.45125pt x 351.3125pt>
 File: ./Planning/Images/pHScale.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/pHScale.jpg>
 Package pdftex.def Info: ./Planning/Images/pHScale.jpg used on input line 176.
 (pdftex.def)             Requested size: 345.0pt x 312.02386pt.
  [11]
-<./Planning/Images/Indicators.jpg, id=263, 426.84468pt x 232.61906pt>
+<./Planning/Images/Indicators.jpg, id=288, 426.84468pt x 232.61906pt>
 File: ./Planning/Images/Indicators.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Indicators.jpg>
@@ -787,20 +787,20 @@ Package pdftex.def Info: ./Planning/Images/Indicators.jpg used on input line 18
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.192 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/pHScale.jpg>
-] [13pdfTeX warning (ext4): destination with the same identifier (name{figure.2
-.5}) has been already used, duplicate ignored
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/pHScale.jpg>] [13pdfTe
+X warning (ext4): destination with the same identifier (name{figure.2.5}) has b
+een already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.217 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/Indicators.j
-pg>] [14]
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/Indicators.jpg>]
+[14]
 Overfull \hbox (47.97302pt too wide) in paragraph at lines 264--274
  [] 
  []
 
-[15] <./Planning/Images/DOrbitals.jpg, id=287, 654.445pt x 200.75pt>
+[15] <./Planning/Images/DOrbitals.jpg, id=312, 654.445pt x 200.75pt>
 File: ./Planning/Images/DOrbitals.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/DOrbitals.jpg>
@@ -813,9 +813,9 @@ Package pdftex.def Info: ./Planning/Images/DOrbitals.jpg used on input line 288
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.300 \item S
-             tability. <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Ima
-ges/DOrbitals.jpg>]
-<./Planning/Images/ComplexShapes.jpg, id=293, 450.18187pt x 130.98938pt>
+             tability. <U:/git/ChemistryCoursework/LaTeX/Planning/Images/DOrbit
+als.jpg>]
+<./Planning/Images/ComplexShapes.jpg, id=318, 450.18187pt x 130.98938pt>
 File: ./Planning/Images/ComplexShapes.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/ComplexShapes.jpg>
@@ -823,7 +823,7 @@ Package pdftex.def Info: ./Planning/Images/ComplexShapes.jpg used on input line
  308.
 (pdftex.def)             Requested size: 345.0pt x 100.38841pt.
 
-<./Planning/Images/Exothermic.jpg, id=294, 152.4897pt x 110.5731pt>
+<./Planning/Images/Exothermic.jpg, id=319, 152.4897pt x 110.5731pt>
 File: ./Planning/Images/Exothermic.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Exothermic.jpg>
@@ -836,8 +836,8 @@ Package pdftex.def Info: ./Planning/Images/Exothermic.jpg used on input line 32
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.327 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/ComplexShape
-s.jpg>] <./Planning/Images/Endothermic.jpg, id=301, 152.4897pt x 110.5731pt>
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/ComplexShapes.jpg>]
+<./Planning/Images/Endothermic.jpg, id=326, 152.4897pt x 110.5731pt>
 File: ./Planning/Images/Endothermic.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Endothermic.jpg>
@@ -850,517 +850,517 @@ Package pdftex.def Info: ./Planning/Images/Endothermic.jpg used on input line 3
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.334 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/Exothermic.j
-pg>] [19pdfTeX warning (ext4): destination with the same identifier (name{figur
-e.2.9}) has been already used, duplicate ignored
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/Exothermic.jpg>]
+[19pdfTeX warning (ext4): destination with the same identifier (name{figure.2.9
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.363 \item B
-             ung fitted to a glass tube. <C:/Users/Ben/git/ChemistryCoursework/
-LaTeX/Planning/Images/Endothermic.jpg>] [20]
-Underfull \hbox (badness 10000) in paragraph at lines 424--424
+             ung fitted to a glass tube. <U:/git/ChemistryCoursework/LaTeX/Plan
+ning/Images/Endothermic.jpg>] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 \OT1/cmr/bx/n/10 Chem-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--424
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 []|\OT1/cmr/bx/n/10 Source
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--424
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 []|\OT1/cmr/bx/n/10 Control Mea-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--424
+Underfull \hbox (badness 10000) in paragraph at lines 426--426
 []|\OT1/cmr/bx/n/10 Emergency
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--426
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
 []|\OT1/cmr/m/n/10 Copper
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--426
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
 \OT1/cmr/m/n/10 Sul-fate
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 427--427
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 429--429
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 430--430
+Underfull \hbox (badness 3019) in paragraph at lines 432--432
 \OT1/cmr/m/n/10 the En-vi-ron-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
 []\OT1/cmr/m/n/10 Harmful if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 433--433
+Underfull \hbox (badness 10000) in paragraph at lines 435--435
 []\OT1/cmr/m/n/10 Irritating to
  []
 
 
-Underfull \hbox (badness 4217) in paragraph at lines 435--436
+Underfull \hbox (badness 4217) in paragraph at lines 437--438
 []\OT1/cmr/m/n/10 Do not put
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
 []\OT1/cmr/m/n/10 Keep away
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
 \OT1/cmr/m/n/10 from wa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--438
+Underfull \hbox (badness 10000) in paragraph at lines 440--440
 \OT1/cmr/m/n/10 ter, un-less
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 439--439
+Underfull \hbox (badness 1275) in paragraph at lines 441--441
 \OT1/cmr/m/n/10 litre of wa-ter be-
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 439--439
+Underfull \hbox (badness 1466) in paragraph at lines 441--441
 \OT1/cmr/m/n/10 dis-posal pro-ce-dure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 442--442
 \OT1/cmr/m/n/10 at-ten-tion.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 442--442
 \OT1/cmr/m/n/10 Wash con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--440
+Underfull \hbox (badness 10000) in paragraph at lines 442--442
 \OT1/cmr/m/n/10 tam-i-nated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
 []|\OT1/cmr/m/n/10 Hydrated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
 \OT1/cmr/m/n/10 Cop-per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--442
+Underfull \hbox (badness 10000) in paragraph at lines 444--444
 \OT1/cmr/m/n/10 Sul-fate
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 443--443
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 445--445
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 446--446
+Underfull \hbox (badness 3019) in paragraph at lines 448--448
 \OT1/cmr/m/n/10 the En-vi-ron-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 448--449
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
 []\OT1/cmr/m/n/10 Harmful if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--449
+Underfull \hbox (badness 10000) in paragraph at lines 451--451
 []\OT1/cmr/m/n/10 Irritating to
  []
 
 
-Underfull \hbox (badness 4217) in paragraph at lines 451--452
+Underfull \hbox (badness 4217) in paragraph at lines 453--454
 []\OT1/cmr/m/n/10 Do not put
  []
 
 
-Underfull \hbox (badness 7576) in paragraph at lines 455--455
+Underfull \hbox (badness 7576) in paragraph at lines 457--457
 []|\OT1/cmr/m/n/10 Crystals may be
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 455--455
+Underfull \hbox (badness 1348) in paragraph at lines 457--457
 \OT1/cmr/m/n/10 0.4 mol dm$[]3$ or
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 455--455
+Underfull \hbox (badness 1275) in paragraph at lines 457--457
 \OT1/cmr/m/n/10 litre of wa-ter be-
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 455--455
+Underfull \hbox (badness 1466) in paragraph at lines 457--457
 \OT1/cmr/m/n/10 dis-posal pro-ce-dure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--456
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
 \OT1/cmr/m/n/10 at-ten-tion.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--456
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
 \OT1/cmr/m/n/10 Wash con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--456
+Underfull \hbox (badness 10000) in paragraph at lines 458--458
 \OT1/cmr/m/n/10 tam-i-nated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--460
+Underfull \hbox (badness 10000) in paragraph at lines 462--462
 []|\OT1/cmr/m/n/10 Sulfuric
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 461--461
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 463--463
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 463--464
+Underfull \hbox (badness 4108) in paragraph at lines 465--466
 []\OT1/cmr/m/n/10 Corrosive, if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
 []\OT1/cmr/m/n/10 Irritant, if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--465
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
 []|\OT1/cmr/m/n/10 Causes se-ri-ous
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 467--468
+Underfull \hbox (badness 3861) in paragraph at lines 469--470
 []\OT1/cmr/m/n/10 Label: Ir-ri-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 []|\OT1/cmr/m/n/10 Add slowly no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 \OT1/cmr/m/n/10 sodium car-bon-ate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 \OT1/cmr/m/n/10 so-lu-tion (con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 \OT1/cmr/m/n/10 tain-ing in-di-ca-tor)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 \OT1/cmr/m/n/10 which should be
  []
 
 
-Underfull \hbox (badness 4096) in paragraph at lines 471--471
+Underfull \hbox (badness 4096) in paragraph at lines 473--473
 \OT1/cmr/m/n/10 con-stantly stirred.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 \OT1/cmr/m/n/10 Let the mix-ture
  []
 
 
-Underfull \hbox (badness 3657) in paragraph at lines 471--471
+Underfull \hbox (badness 3657) in paragraph at lines 473--473
 \OT1/cmr/m/n/10 acid. Pour the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--471
+Underfull \hbox (badness 10000) in paragraph at lines 473--473
 \OT1/cmr/m/n/10 so-lu-tion down a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 tam-i-nated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 as much
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 liq-uid as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 pos-si-ble off
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 the skin
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 472--472
+Underfull \hbox (badness 3635) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 with a dry
  []
 
 
-Underfull \hbox (badness 3049) in paragraph at lines 472--472
+Underfull \hbox (badness 3049) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 cloth be-fore
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 drench-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 the area
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 ex-cess of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 large area
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 is af-fected
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 or blis-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 472--472
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
 \OT1/cmr/m/n/10 ing oc-curs,
  []
 
 
-Overfull \hbox (6.58487pt too wide) in paragraph at lines 474--474
+Overfull \hbox (6.58487pt too wide) in paragraph at lines 476--476
 []|\OT1/cmr/m/n/10 Granulated
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 475--475
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 477--477
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--479
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
 []|\OT1/cmr/m/n/10 Place in nor-mal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 483--483
+Underfull \hbox (badness 10000) in paragraph at lines 485--485
 []|\OT1/cmr/m/n/10 Powdered
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 484--484
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 486--486
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
 []\OT1/cmr/m/n/10 Highly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 487--487
+Underfull \hbox (badness 10000) in paragraph at lines 489--489
 []\OT1/cmr/m/n/10 Dangerous
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 488--488
+Underfull \hbox (badness 1264) in paragraph at lines 490--490
 \OT1/cmr/m/n/10 acid-s/al-kali hy-dro-
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 488--488
+Underfull \hbox (badness 7221) in paragraph at lines 490--490
 \OT1/cmr/m/n/10 gen is pro-duced,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--489
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
 []|\OT1/cmr/m/n/10 Keep away from
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 490--490
+Underfull \hbox (badness 4279) in paragraph at lines 492--492
 []|\OT1/cmr/m/n/10 Should be stored
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 490--490
+Underfull \hbox (badness 2150) in paragraph at lines 492--492
 \OT1/cmr/m/n/10 for re-moval by a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 490--490
+Underfull \hbox (badness 10000) in paragraph at lines 492--492
 \OT1/cmr/m/n/10 Reg-is-tered Waste
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
 \OT1/cmr/m/n/10 and ap-ply
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
 \OT1/cmr/m/n/10 any burns.
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 491--492
+Underfull \hbox (badness 1394) in paragraph at lines 493--494
 \OT1/cmr/m/n/10 Alert su-per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--494
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
 []|\OT1/cmr/m/n/10 Zinc
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 494--494
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
 \OT1/cmr/m/n/10 Sul-fate
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 495--496
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 497--498
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
 []|\OT1/cmr/m/n/10 Harmful if swal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 497--498
+Underfull \hbox (badness 10000) in paragraph at lines 499--500
 \OT1/cmr/m/n/10 lowed, dam-aged
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 498--499
+Underfull \hbox (badness 4001) in paragraph at lines 500--501
 []|\OT1/cmr/m/n/10 Wear eye pro-tec-
  []
 
 
-Underfull \hbox (badness 5519) in paragraph at lines 499--500
+Underfull \hbox (badness 5519) in paragraph at lines 501--502
 []|\OT1/cmr/m/n/10 Place in a suit-
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 499--500
+Underfull \hbox (badness 1509) in paragraph at lines 501--502
 \OT1/cmr/m/n/10 able, clos-able, la-
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 500--501
+Underfull \hbox (badness 3942) in paragraph at lines 502--503
 \OT1/cmr/m/n/10 in the eye,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
 \OT1/cmr/m/n/10 sta-tion for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--501
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
 \OT1/cmr/m/n/10 atleast 10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 504--504
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 []|\OT1/cmr/m/n/10 Hydrogen
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 505--506
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 507--508
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--509
+Underfull \hbox (badness 10000) in paragraph at lines 510--511
 []|\OT1/cmr/m/n/10 Keep away from
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 509--510
+Underfull \hbox (badness 2735) in paragraph at lines 511--512
 \OT1/cmr/m/n/10 vent the ma-te-rial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 and ap-ply
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 any burns.
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 510--511
+Underfull \hbox (badness 1394) in paragraph at lines 512--513
 \OT1/cmr/m/n/10 Alert su-per-
  []
 
 
-Overfull \hbox (17.6968pt too wide) in alignment at lines 422--516
+Overfull \hbox (17.6968pt too wide) in alignment at lines 424--518
  [] [] [] [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 516
+Underfull \vbox (badness 10000) detected at line 518
  []
 
 [21
 
 ] [22] [23]
-<./Planning/Images/GasSyringe.jpg, id=333, 340.27126pt x 210.7875pt>
+<./Planning/Images/GasSyringe.jpg, id=358, 340.27126pt x 210.7875pt>
 File: ./Planning/Images/GasSyringe.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/GasSyringe.jpg>
 Package pdftex.def Info: ./Planning/Images/GasSyringe.jpg used on input line 53
-7.
+9.
 (pdftex.def)             Requested size: 345.0pt x 213.72673pt.
  [24
 
@@ -1369,64 +1369,168 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.10})
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.550 \end{enumerate}
-                      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Imag
-es/GasSyringe.jpg>]
-<./Planning/Images/InvertedBurette.jpg, id=353, 252.945pt x 224.33812pt>
+l.552 \end{enumerate}
+                      <U:/git/ChemistryCoursework/LaTeX/Planning/Images/GasSyri
+nge.jpg>]
+<./Planning/Images/InvertedBurette.jpg, id=378, 252.945pt x 224.33812pt>
 File: ./Planning/Images/InvertedBurette.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/InvertedBurette.jpg>
 Package pdftex.def Info: ./Planning/Images/InvertedBurette.jpg used on input li
-ne 602.
+ne 604.
 (pdftex.def)             Requested size: 345.0pt x 305.98924pt.
  [25] [26pdfTeX warning (ext4): destination with the same identifier (name{figu
 re.2.11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.613 \item B
-             alance (reading to 0.01 g) <C:/Users/Ben/git/ChemistryCoursework/L
-aTeX/Planning/Images/InvertedBurette.jpg>]
-<./Planning/Images/MassChange.pdf, id=369, 310.15875pt x 324.21124pt>
+l.615 \item B
+             alance (reading to 0.01 g) <U:/git/ChemistryCoursework/LaTeX/Plann
+ing/Images/InvertedBurette.jpg>]
+<./Planning/Images/MassChange.pdf, id=394, 310.15875pt x 324.21124pt>
 File: ./Planning/Images/MassChange.pdf Graphic file (type pdf)
 
 <use ./Planning/Images/MassChange.pdf>
-Package pdftex.def Info: ./Planning/Images/MassChange.pdf used on input line 61
-9.
+Package pdftex.def Info: ./Planning/Images/MassChange.pdf used on input line 62
+1.
 (pdftex.def)             Requested size: 345.0pt x 360.63069pt.
  [27pdfTeX warning (ext4): destination with the same identifier (name{figure.2.
 12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.630 \item W
-             eigh out 1.0 g of granulated zinc. <C:/Users/Ben/git/ChemistryCour
-sework/LaTeX/Planning/Images/MassChange.pdf>]) [28]
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.tex
+l.632 \item W
+             eigh out 1.0 g of granulated zinc. <U:/git/ChemistryCoursework/LaT
+eX/Planning/Images/MassChange.pdf>]) [28]
+(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.tex
 Chapter 3.
-) [29
+
+<./preliminarywork/images/GranulatedZinc.jpg, id=418, 3276.24pt x 982.67125pt>
+File: ./preliminarywork/images/GranulatedZinc.jpg Graphic file (type jpg)
+
+<use ./preliminarywork/images/GranulatedZinc.jpg>
+Package pdftex.def Info: ./preliminarywork/images/GranulatedZinc.jpg used on in
+put line 22.
+(pdftex.def)             Requested size: 345.0pt x 103.4759pt.
+ [29
 
 
 
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.tex
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.27 
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/GranulatedZinc.j
+pg>]
+<./preliminarywork/Graphs/GasSyringe.pdf, id=424, 597.23125pt x 389.455pt>
+File: ./preliminarywork/Graphs/GasSyringe.pdf Graphic file (type pdf)
+
+<use ./preliminarywork/Graphs/GasSyringe.pdf>
+Package pdftex.def Info: ./preliminarywork/Graphs/GasSyringe.pdf used on input 
+line 35.
+(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
+
+<./preliminarywork/Graphs/Burette.pdf, id=425, 597.23125pt x 389.455pt>
+File: ./preliminarywork/Graphs/Burette.pdf Graphic file (type pdf)
+
+<use ./preliminarywork/Graphs/Burette.pdf>
+Package pdftex.def Info: ./preliminarywork/Graphs/Burette.pdf used on input lin
+e 45.
+(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
+ [30pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.48 
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/GasSyringe.pdf>]
+<./preliminarywork/graphs/Temperature.pdf, id=438, 597.23125pt x 389.455pt>
+File: ./preliminarywork/graphs/Temperature.pdf Graphic file (type pdf)
+
+<use ./preliminarywork/graphs/Temperature.pdf>
+Package pdftex.def Info: ./preliminarywork/graphs/Temperature.pdf used on input
+ line 63.
+(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
+ [31pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.66 
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/Burette.pdf>]
+<./preliminarywork/images/ThermometerSetUp.jpg, id=450, 2457.18pt x 3276.24pt>
+File: ./preliminarywork/images/ThermometerSetUp.jpg Graphic file (type jpg)
+
+<use ./preliminarywork/images/ThermometerSetUp.jpg>
+Package pdftex.def Info: ./preliminarywork/images/ThermometerSetUp.jpg used on 
+input line 70.
+(pdftex.def)             Requested size: 345.0pt x 459.97026pt.
+ [32pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.73 
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/graphs/Temperature.pdf>
+] [33pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.75 
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/ThermometerSetUp
+.jpg>]
+<./preliminarywork/images/BeforePush.jpg, id=467, 3276.24pt x 2457.18pt>
+File: ./preliminarywork/images/BeforePush.jpg Graphic file (type jpg)
+
+<use ./preliminarywork/images/BeforePush.jpg>
+Package pdftex.def Info: ./preliminarywork/images/BeforePush.jpg used on input 
+line 77.
+(pdftex.def)             Requested size: 345.0pt x 258.74263pt.
+
+<./preliminarywork/images/AfterPush.jpg, id=468, 3276.24pt x 2457.18pt>
+File: ./preliminarywork/images/AfterPush.jpg Graphic file (type jpg)
+
+<use ./preliminarywork/images/AfterPush.jpg>
+Package pdftex.def Info: ./preliminarywork/images/AfterPush.jpg used on input l
+ine 84.
+(pdftex.def)             Requested size: 345.0pt x 258.74263pt.
+ [34pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.87 
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/BeforePush.jpg>]
+[35pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.100 	\subsection
+                  {Spreading the Zinc} <U:/git/ChemistryCoursework/LaTeX/prelim
+inarywork/images/AfterPush.jpg>]) [36]
+(U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.tex
 Chapter 4.
-) [30
+) [37
 
 
 
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.tex
+] (U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.tex
 Chapter 5.
-) [31
+) [38
 
 
 
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.tex
+] (U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.tex
 Chapter 6.
-) [32
+) [39
 
 
 
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.tex
+] (U:\git\ChemistryCoursework\LaTeX\References\References.tex
 Chapter 7.
 
 Overfull \hbox (16.77559pt too wide) in paragraph at lines 10--11
@@ -1458,7 +1562,7 @@ $\OT1/cmtt/m/n/10 edu / Physical _ Chemistry / Kinetics / Reaction _ Rates / Me
 asuring _ Reaction _$
  []
 
-[33
+[40
 
 
 
@@ -1498,7 +1602,7 @@ Overfull \hbox (130.02376pt too wide) in paragraph at lines 56--57
 heartupdate . com / prevention / ph-[]body-[]influence-[]daily-[]life _$
  []
 
-[34]
+[41]
 Overfull \hbox (0.79065pt too wide) in paragraph at lines 68--69
 []\OT1/cmr/m/n/10 Figure 2.10 - Gas Sy-ringe Ex-per-i-ment - []$\OT1/cmtt/m/n/1
 0 http : / / www . bbc . co . uk / schools /$
@@ -1516,31 +1620,31 @@ $\OT1/cmtt/m/n/10 za / science / grade-[]12 / 07-[]rate-[]and-[]extent-[]of-[]r
 eaction / 07-[]rate-[]and-[]extent-[]of-[]reaction-[]03 .$
  []
 
-) [35]
+) [42]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
- (C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.aux
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux
-) (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.aux))
+ (U:\git\ChemistryCoursework\LaTeX\coursework.aux
+(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
+(U:\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
+(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux)
+(U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
+(U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
+(U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
+(U:\git\ChemistryCoursework\LaTeX\References\References.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `coursework.out' has not changed.
-(rerunfilecheck)             Checksum: FEB901FC8A2048DC9299E0E98B668995;2437.
+(rerunfilecheck)             Checksum: 8A36E711388DD8F221D2399564E13EA6;2839.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 10062 strings out of 493921
- 146497 string characters out of 3144881
- 274718 words of memory out of 3000000
- 13031 multiletter control sequences out of 15000+200000
+ 10130 strings out of 493921
+ 148080 string characters out of 3144876
+ 275107 words of memory out of 3000000
+ 13071 multiletter control sequences out of 15000+200000
  10403 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,12n,45p,1343b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,12n,45p,1333b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
@@ -1554,9 +1658,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on coursework.pdf (36 pages, 675439 bytes).
+Output written on coursework.pdf (43 pages, 6758527 bytes).
 PDF statistics:
- 538 PDF objects out of 1000 (max. 8388607)
- 122 named destinations out of 1000 (max. 500000)
- 357 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 630 PDF objects out of 1000 (max. 8388607)
+ 141 named destinations out of 1000 (max. 500000)
+ 432 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  24 MAR 2015 09:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  24 MAR 2015 21:16
 entering extended mode
 **C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
 (C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
@@ -724,7 +724,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
  [5] [6]
-<./Planning/Images/ZeroOrder.jpg, id=314, 237.13594pt x 149.8097pt>
+<./Planning/Images/ZeroOrder.jpg, id=399, 237.13594pt x 149.8097pt>
 File: ./Planning/Images/ZeroOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/ZeroOrder.jpg>
@@ -739,7 +739,7 @@ Package pdftex.def Info: ./Planning/Images/ZeroOrder.jpg used on input line 83.
 l.107 $
        Rate = k[A]$ <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images
 /ZeroOrder.jpg>]
-<./Planning/Images/FirstOrder.jpg, id=325, 232.61906pt x 150.5625pt>
+<./Planning/Images/FirstOrder.jpg, id=410, 232.61906pt x 150.5625pt>
 File: ./Planning/Images/FirstOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/FirstOrder.jpg>
@@ -753,7 +753,7 @@ Package pdftex.def Info: ./Planning/Images/FirstOrder.jpg used on input line 11
                                                   \fi \fi 
 l.127 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/FirstOrder.j
-pg>] <./Planning/Images/SecondOrder.jpg, id=335, 229.60782pt x 157.33781pt>
+pg>] <./Planning/Images/SecondOrder.jpg, id=420, 229.60782pt x 157.33781pt>
 File: ./Planning/Images/SecondOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/SecondOrder.jpg>
@@ -767,14 +767,14 @@ Package pdftex.def Info: ./Planning/Images/SecondOrder.jpg used on input line 1
                                                   \fi \fi 
 l.147 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/SecondOrder.
-jpg>] <./Planning/Images/pHScale.jpg, id=341, 388.45125pt x 351.3125pt>
+jpg>] <./Planning/Images/pHScale.jpg, id=426, 388.45125pt x 351.3125pt>
 File: ./Planning/Images/pHScale.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/pHScale.jpg>
 Package pdftex.def Info: ./Planning/Images/pHScale.jpg used on input line 176.
 (pdftex.def)             Requested size: 345.0pt x 312.02386pt.
  [11]
-<./Planning/Images/Indicators.jpg, id=351, 426.84468pt x 232.61906pt>
+<./Planning/Images/Indicators.jpg, id=436, 426.84468pt x 232.61906pt>
 File: ./Planning/Images/Indicators.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Indicators.jpg>
@@ -800,7 +800,7 @@ Overfull \hbox (47.97302pt too wide) in paragraph at lines 264--274
  [] 
  []
 
-[15] <./Planning/Images/DOrbitals.jpg, id=375, 654.445pt x 200.75pt>
+[15] <./Planning/Images/DOrbitals.jpg, id=460, 654.445pt x 200.75pt>
 File: ./Planning/Images/DOrbitals.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/DOrbitals.jpg>
@@ -808,7 +808,7 @@ Package pdftex.def Info: ./Planning/Images/DOrbitals.jpg used on input line 288
 .
 (pdftex.def)             Requested size: 345.0pt x 105.82722pt.
 
-<./Planning/Images/CopperDOrbital.jpg, id=376, 144.54pt x 38.39343pt>
+<./Planning/Images/CopperDOrbital.jpg, id=461, 144.54pt x 38.39343pt>
 File: ./Planning/Images/CopperDOrbital.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/CopperDOrbital.jpg>
@@ -822,7 +822,7 @@ e 295.
                                                   \fi \fi 
 l.298 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/DOrbitals.jp
-g>] <./Planning/Images/ComplexShapes.jpg, id=382, 450.18187pt x 130.98938pt>
+g>] <./Planning/Images/ComplexShapes.jpg, id=467, 450.18187pt x 130.98938pt>
 File: ./Planning/Images/ComplexShapes.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/ComplexShapes.jpg>
@@ -836,7 +836,7 @@ Package pdftex.def Info: ./Planning/Images/ComplexShapes.jpg used on input line
                                                   \fi \fi 
 l.318 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/CopperDOrbit
-al.jpg>] <./Planning/Images/Exothermic.jpg, id=388, 152.4897pt x 110.5731pt>
+al.jpg>] <./Planning/Images/Exothermic.jpg, id=473, 152.4897pt x 110.5731pt>
 File: ./Planning/Images/Exothermic.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Exothermic.jpg>
@@ -850,7 +850,7 @@ Package pdftex.def Info: ./Planning/Images/Exothermic.jpg used on input line 33
                                                   \fi \fi 
 l.334 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/ComplexShape
-s.jpg>] <./Planning/Images/Endothermic.jpg, id=396, 152.4897pt x 110.5731pt>
+s.jpg>] <./Planning/Images/Endothermic.jpg, id=481, 152.4897pt x 110.5731pt>
 File: ./Planning/Images/Endothermic.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Endothermic.jpg>
@@ -1368,7 +1368,7 @@ Underfull \vbox (badness 10000) detected at line 539
 [23
 
 ] [24] [25]
-<./Planning/Images/GasSyringe.jpg, id=432, 340.27126pt x 210.7875pt>
+<./Planning/Images/GasSyringe.jpg, id=517, 340.27126pt x 210.7875pt>
 File: ./Planning/Images/GasSyringe.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/GasSyringe.jpg>
@@ -1385,7 +1385,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.11})
 l.573 \end{enumerate}
                       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Imag
 es/GasSyringe.jpg>]
-<./Planning/Images/InvertedBurette.jpg, id=451, 252.945pt x 224.33812pt>
+<./Planning/Images/InvertedBurette.jpg, id=536, 252.945pt x 224.33812pt>
 File: ./Planning/Images/InvertedBurette.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/InvertedBurette.jpg>
@@ -1400,7 +1400,7 @@ re.2.12}) has been already used, duplicate ignored
 l.637 \item B
              alance (reading to 0.01 g) <C:/Users/Ben/git/ChemistryCoursework/L
 aTeX/Planning/Images/InvertedBurette.jpg>]
-<./Planning/Images/MassChange.pdf, id=468, 310.15875pt x 324.21124pt>
+<./Planning/Images/MassChange.pdf, id=553, 310.15875pt x 324.21124pt>
 File: ./Planning/Images/MassChange.pdf Graphic file (type pdf)
 
 <use ./Planning/Images/MassChange.pdf>
@@ -1418,7 +1418,7 @@ sework/LaTeX/Planning/Images/MassChange.pdf>]) [30]
 (C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.tex
 Chapter 3.
 
-<./preliminarywork/images/GranulatedZinc.jpg, id=493, 3276.24pt x 982.67125pt>
+<./preliminarywork/images/GranulatedZinc.jpg, id=578, 3276.24pt x 982.67125pt>
 File: ./preliminarywork/images/GranulatedZinc.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/GranulatedZinc.jpg>
@@ -1437,7 +1437,7 @@ has been already used, duplicate ignored
 l.27 
       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Granul
 atedZinc.jpg>]
-<./preliminarywork/Graphs/GasSyringe.pdf, id=499, 597.23125pt x 389.455pt>
+<./preliminarywork/Graphs/GasSyringe.pdf, id=584, 597.23125pt x 389.455pt>
 File: ./preliminarywork/Graphs/GasSyringe.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/Graphs/GasSyringe.pdf>
@@ -1445,7 +1445,7 @@ Package pdftex.def Info: ./preliminarywork/Graphs/GasSyringe.pdf used on input
 line 35.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./preliminarywork/Graphs/Burette.pdf, id=502, 597.23125pt x 389.455pt>
+<./preliminarywork/Graphs/Burette.pdf, id=587, 597.23125pt x 389.455pt>
 File: ./preliminarywork/Graphs/Burette.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/Graphs/Burette.pdf>
@@ -1467,7 +1467,7 @@ inge.pdf>] [33pdfTeX warning (ext4): destination with the same identifier (name
 l.61 
       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/Burett
 e.pdf>]
-<./preliminarywork/graphs/Temperature.pdf, id=529, 597.23125pt x 389.455pt>
+<./preliminarywork/graphs/Temperature.pdf, id=614, 597.23125pt x 389.455pt>
 File: ./preliminarywork/graphs/Temperature.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/graphs/Temperature.pdf>
@@ -1475,7 +1475,7 @@ Package pdftex.def Info: ./preliminarywork/graphs/Temperature.pdf used on input
  line 64.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./preliminarywork/images/ThermometerSetUp.jpg, id=530, 2457.18pt x 3276.24pt>
+<./preliminarywork/images/ThermometerSetUp.jpg, id=615, 2457.18pt x 3276.24pt>
 File: ./preliminarywork/images/ThermometerSetUp.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/ThermometerSetUp.jpg>
@@ -1497,7 +1497,7 @@ e{figure.3.5}) has been already used, duplicate ignored
 l.76 
       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Thermo
 meterSetUp.jpg>]
-<./preliminarywork/images/BeforePush.jpg, id=547, 3276.24pt x 2457.18pt>
+<./preliminarywork/images/BeforePush.jpg, id=632, 3276.24pt x 2457.18pt>
 File: ./preliminarywork/images/BeforePush.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/BeforePush.jpg>
@@ -1505,7 +1505,7 @@ Package pdftex.def Info: ./preliminarywork/images/BeforePush.jpg used on input
 line 78.
 (pdftex.def)             Requested size: 345.0pt x 258.74263pt.
 
-<./preliminarywork/images/AfterPush.jpg, id=548, 3276.24pt x 2457.18pt>
+<./preliminarywork/images/AfterPush.jpg, id=633, 3276.24pt x 2457.18pt>
 File: ./preliminarywork/images/AfterPush.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/AfterPush.jpg>
@@ -1527,7 +1527,7 @@ Push.jpg>] [37pdfTeX warning (ext4): destination with the same identifier (name
 l.100 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/After
 Push.jpg>]
-<./preliminarywork/images/GasSyringeRawData.jpg, id=563, 225.09094pt x 218.3156
+<./preliminarywork/images/GasSyringeRawData.jpg, id=648, 225.09094pt x 218.3156
 3pt>
 File: ./preliminarywork/images/GasSyringeRawData.jpg Graphic file (type jpg)
  <use ./preliminarywork/images/GasSyringeRawData.jpg>
@@ -1535,7 +1535,7 @@ Package pdftex.def Info: ./preliminarywork/images/GasSyringeRawData.jpg used on
  input line 114.
 (pdftex.def)             Requested size: 345.0pt x 334.65472pt.
  [38]
-<./preliminarywork/images/BuretteRawData.jpg, id=568, 232.61906pt x 218.31563pt
+<./preliminarywork/images/BuretteRawData.jpg, id=653, 232.61906pt x 218.31563pt
 >
 File: ./preliminarywork/images/BuretteRawData.jpg Graphic file (type jpg)
  <use ./preliminarywork/images/BuretteRawData.jpg>
@@ -1550,7 +1550,7 @@ put line 119.
 l.122 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/GasSy
 ringeRawData.jpg>]
-<./preliminarywork/images/TemperatureRawData.jpg, id=573, 140.02313pt x 186.697
+<./preliminarywork/images/TemperatureRawData.jpg, id=658, 140.02313pt x 186.697
 5pt>
 File: ./preliminarywork/images/TemperatureRawData.jpg Graphic file (type jpg)
  <use ./preliminarywork/images/TemperatureRawData.jpg>
@@ -1574,19 +1574,19 @@ l.15 \include{./PreliminaryWork/PreliminaryWork}
 rsework/LaTeX/preliminarywork/images/TemperatureRawData.jpg>]
 (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.tex
 Chapter 4.
-) [42
+[42
 
 
 
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.tex
+]) [43] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.tex
 Chapter 5.
-) [43
+) [44
 
 
 
 ] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.tex
 Chapter 6.
-) [44
+) [45
 
 
 
@@ -1622,7 +1622,7 @@ $\OT1/cmtt/m/n/10 edu / Physical _ Chemistry / Kinetics / Reaction _ Rates / Me
 asuring _ Reaction _$
  []
 
-[45
+[46
 
 
 
@@ -1674,7 +1674,7 @@ $\OT1/cmtt/m/n/10 co . uk / inorganic / complexions / whatis . html$[] \OT1/cmr
 /m/n/10 - Ac-cessed 9:18, 24/03/2015. 
  []
 
-[46]
+[47]
 Overfull \hbox (0.79065pt too wide) in paragraph at lines 71--72
 []\OT1/cmr/m/n/10 Figure 2.11 - Gas Sy-ringe Ex-per-i-ment - []$\OT1/cmtt/m/n/1
 0 http : / / www . bbc . co . uk / schools /$
@@ -1692,7 +1692,7 @@ $\OT1/cmtt/m/n/10 za / science / grade-[]12 / 07-[]rate-[]and-[]extent-[]of-[]r
 eaction / 07-[]rate-[]and-[]extent-[]of-[]reaction-[]03 .$
  []
 
-) [47]
+) [48]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
  (C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.aux
@@ -1706,14 +1706,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `coursework.out' has not changed.
-(rerunfilecheck)             Checksum: 84897C44F6069B13EC1958BDFD35E5E5;3811.
+(rerunfilecheck)             Checksum: 0E69936AD40B4EF697FDBB414404942B;5247.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 10191 strings out of 493921
- 149792 string characters out of 3144881
+ 10226 strings out of 493921
+ 150327 string characters out of 3144881
  275320 words of memory out of 3000000
- 13103 multiletter control sequences out of 15000+200000
+ 13120 multiletter control sequences out of 15000+200000
  10403 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  37i,12n,45p,1343b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1730,9 +1730,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on coursework.pdf (48 pages, 6877322 bytes).
+Output written on coursework.pdf (49 pages, 6889510 bytes).
 PDF statistics:
- 735 PDF objects out of 1000 (max. 8388607)
- 166 named destinations out of 1000 (max. 500000)
- 548 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 829 PDF objects out of 1000 (max. 8388607)
+ 184 named destinations out of 1000 (max. 500000)
+ 684 words of extra memory for PDF output out of 10000 (max. 10000000)
 

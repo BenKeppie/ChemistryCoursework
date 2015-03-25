@@ -49,10 +49,27 @@
 \contentsline {subsection}{\numberline {4.1.5}3.6 Molar Sulfuric Acid}{42}{subsection.4.1.5}
 \contentsline {subsection}{\numberline {4.1.6}4.0 Molar Sulfuric Acid}{42}{subsection.4.1.6}
 \contentsline {section}{\numberline {4.2}Copper Sulfate Catalysed Experiment Series}{42}{section.4.2}
-\contentsline {chapter}{\numberline {5}Analysis and Interpretation}{43}{chapter.5}
-\contentsline {section}{\numberline {5.1}Analysis}{43}{section.5.1}
-\contentsline {section}{\numberline {5.2}Interpretation}{43}{section.5.2}
-\contentsline {chapter}{\numberline {6}Evaluation}{44}{chapter.6}
-\contentsline {chapter}{\numberline {7}References}{45}{chapter.7}
-\contentsline {section}{\numberline {7.1}Sources}{45}{section.7.1}
-\contentsline {section}{\numberline {7.2}Figures}{46}{section.7.2}
+\contentsline {subsection}{\numberline {4.2.1}0.2 Molar Sulfuric Acid}{43}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}0.4 Molar Sulfuric Acid}{43}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}0.6 Molar Sulfuric Acid}{43}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}0.8 Molar Sulfuric Acid}{43}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}1.0 Molar Sulfuric Acid}{43}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}1.2 Molar Sulfuric Acid}{43}{subsection.4.2.6}
+\contentsline {section}{\numberline {4.3}Varying Copper Sulfate Experiment Series}{43}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}0.01 Molar Copper Sulfate}{43}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}0.02 Molar Copper Sulfate}{43}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}0.03 Molar Copper Sulfate}{43}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}0.04 Molar Copper Sulfate}{43}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}0.05 Molar Copper Sulfate}{43}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}0.06 Molar Copper Sulfate}{43}{subsection.4.3.6}
+\contentsline {section}{\numberline {4.4}Different Catalysts Experiment Series}{43}{section.4.4}
+\contentsline {section}{\numberline {4.5}Solubility of Hydrogen Experiment Series}{43}{section.4.5}
+\contentsline {chapter}{\numberline {5}Analysis and Interpretation}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}Zinc and Sulfuric Acid Without a Catalyst}{44}{section.5.1}
+\contentsline {section}{\numberline {5.2}Zinc and Sulfuric Acid With a Copper Sulfate Catalyst}{44}{section.5.2}
+\contentsline {section}{\numberline {5.3}Comparing Catalysts}{44}{section.5.3}
+\contentsline {section}{\numberline {5.4}Investigating the Solubility of Hydrogen}{44}{section.5.4}
+\contentsline {chapter}{\numberline {6}Evaluation}{45}{chapter.6}
+\contentsline {chapter}{\numberline {7}References}{46}{chapter.7}
+\contentsline {section}{\numberline {7.1}Sources}{46}{section.7.1}
+\contentsline {section}{\numberline {7.2}Figures}{47}{section.7.2}

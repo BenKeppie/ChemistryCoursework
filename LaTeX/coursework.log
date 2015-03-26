@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  24 MAR 2015 21:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.3.26)  26 MAR 2015 12:03
 entering extended mode
-**C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
-(C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
+**U:/git/ChemistryCoursework/LaTeX/coursework.tex
+(U:/git/ChemistryCoursework/LaTeX/coursework.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -32,7 +32,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \@input{settings.aux}
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\settings.tex
+(U:\git\ChemistryCoursework\LaTeX\settings.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
@@ -250,7 +250,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
@@ -268,18 +268,18 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \lst@lineno=\count93
 \lst@maxwidth=\dimen106
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 \c@lstnumber=\count94
 \lst@skipnumbers=\count95
 \lst@framebox=\box27
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
 Package: listings 2014/09/06 1.5e (Carsten Heinz)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancybox\fancybox.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\fancybox\fancybox.sty
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
@@ -323,7 +323,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mathtools.sty
 Package: mathtools 2014/07/16 v1.15 mathematical typesetting tools
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
@@ -339,7 +339,7 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count99
 \calc@Cskip=\skip45
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mhsetup.sty
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
@@ -492,7 +492,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count116
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -529,10 +529,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip50
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\marvosym\marvosym.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\marvosym\marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip51
 \enit@outerparindent=\dimen132
@@ -548,13 +548,14 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks29
 \@floatcapt=\box34
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algpseudocode
+.sty
 Package: algpseudocode 
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algorithmicx.
+sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -570,13 +571,12 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip54
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+) (C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 \@float@every@algorithm=\toks30
 \c@algorithm=\count132
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\comment\comment.sty"
+) (C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
 \CommentStream=\write4
 
 Excluding comment 'comment')
@@ -606,7 +606,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
 \fancy@headwidth=\skip59
 \f@ncyO@elh=\skip60
 \f@ncyO@erh=\skip61
@@ -617,7 +617,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 \f@ncyO@olf=\skip66
 \f@ncyO@orf=\skip67
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
@@ -634,14 +634,17 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.aux
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux
-) (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.aux))
+(U:\git\ChemistryCoursework\LaTeX\coursework.aux
+(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
+(U:\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
+(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux)
+(U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux
+
+LaTeX Warning: Label `fig:First Order Graph' multiply defined.
+
+) (U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
+(U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
+(U:\git\ChemistryCoursework\LaTeX\References\References.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -658,7 +661,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 \c@lstlisting=\count138
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count139
 \scratchdimen=\dimen134
@@ -686,17 +689,17 @@ LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
 
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.out)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.out)
+(U:\git\ChemistryCoursework\LaTeX\coursework.out)
+(U:\git\ChemistryCoursework\LaTeX\coursework.out)
 \@outlinefile=\write5
  [1
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.tocpdfTeX warning (ext4)
-: destination with the same identifier (name{page.1}) has been already used, du
-plicate ignored
+{C:/Users/31291/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(U:\git\ChemistryCoursework\LaTeX\coursework.tocpdfTeX warning (ext4): destinat
+ion with the same identifier (name{page.1}) has been already used, duplicate ig
+nored
 <to be read again> 
                    \relax 
 l.37 ...}Spreading the Zinc}{38}{subsection.3.2.2}
@@ -705,12 +708,12 @@ l.37 ...}Spreading the Zinc}{38}{subsection.3.2.2}
 ])
 \tf@toc=\write6
  [2]
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.tex
+(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.tex
 Chapter 1.
 ) [3
 
 
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.tex
+] (U:\git\ChemistryCoursework\LaTeX\Planning\Planning.tex
 Chapter 2.
 [4
 
@@ -737,9 +740,8 @@ Package pdftex.def Info: ./Planning/Images/ZeroOrder.jpg used on input line 83.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.107 $
-       Rate = k[A]$ <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images
-/ZeroOrder.jpg>]
-<./Planning/Images/FirstOrder.jpg, id=410, 232.61906pt x 150.5625pt>
+       Rate = k[A]$ <U:/git/ChemistryCoursework/LaTeX/Planning/Images/ZeroOrder
+.jpg>] <./Planning/Images/FirstOrder.jpg, id=410, 232.61906pt x 150.5625pt>
 File: ./Planning/Images/FirstOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/FirstOrder.jpg>
@@ -752,8 +754,8 @@ Package pdftex.def Info: ./Planning/Images/FirstOrder.jpg used on input line 11
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.127 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/FirstOrder.j
-pg>] <./Planning/Images/SecondOrder.jpg, id=420, 229.60782pt x 157.33781pt>
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/FirstOrder.jpg>]
+<./Planning/Images/SecondOrder.jpg, id=420, 229.60782pt x 157.33781pt>
 File: ./Planning/Images/SecondOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/SecondOrder.jpg>
@@ -766,8 +768,8 @@ Package pdftex.def Info: ./Planning/Images/SecondOrder.jpg used on input line 1
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.147 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/SecondOrder.
-jpg>] <./Planning/Images/pHScale.jpg, id=426, 388.45125pt x 351.3125pt>
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/SecondOrder.jpg>]
+<./Planning/Images/pHScale.jpg, id=426, 388.45125pt x 351.3125pt>
 File: ./Planning/Images/pHScale.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/pHScale.jpg>
@@ -787,15 +789,15 @@ Package pdftex.def Info: ./Planning/Images/Indicators.jpg used on input line 18
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.192 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/pHScale.jpg>
-] [13pdfTeX warning (ext4): destination with the same identifier (name{figure.2
-.5}) has been already used, duplicate ignored
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/pHScale.jpg>] [13pdfTe
+X warning (ext4): destination with the same identifier (name{figure.2.5}) has b
+een already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.217 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/Indicators.j
-pg>] [14]
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/Indicators.jpg>]
+[14]
 Overfull \hbox (47.97302pt too wide) in paragraph at lines 264--274
  [] 
  []
@@ -821,8 +823,8 @@ e 295.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.298 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/DOrbitals.jp
-g>] <./Planning/Images/ComplexShapes.jpg, id=467, 450.18187pt x 130.98938pt>
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/DOrbitals.jpg>]
+<./Planning/Images/ComplexShapes.jpg, id=467, 450.18187pt x 130.98938pt>
 File: ./Planning/Images/ComplexShapes.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/ComplexShapes.jpg>
@@ -835,8 +837,8 @@ Package pdftex.def Info: ./Planning/Images/ComplexShapes.jpg used on input line
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.318 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/CopperDOrbit
-al.jpg>] <./Planning/Images/Exothermic.jpg, id=473, 152.4897pt x 110.5731pt>
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/CopperDOrbital.jpg>]
+<./Planning/Images/Exothermic.jpg, id=473, 152.4897pt x 110.5731pt>
 File: ./Planning/Images/Exothermic.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Exothermic.jpg>
@@ -849,8 +851,8 @@ Package pdftex.def Info: ./Planning/Images/Exothermic.jpg used on input line 33
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.334 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/ComplexShape
-s.jpg>] <./Planning/Images/Endothermic.jpg, id=481, 152.4897pt x 110.5731pt>
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/ComplexShapes.jpg>]
+<./Planning/Images/Endothermic.jpg, id=481, 152.4897pt x 110.5731pt>
 File: ./Planning/Images/Endothermic.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Endothermic.jpg>
@@ -863,15 +865,15 @@ Package pdftex.def Info: ./Planning/Images/Endothermic.jpg used on input line 3
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.341 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/Exothermic.j
-pg>] [20pdfTeX warning (ext4): destination with the same identifier (name{figur
-e.2.10}) has been already used, duplicate ignored
+       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/Exothermic.jpg>]
+[20pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
+0}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.370 \item B
-             ung fitted to a glass tube. <C:/Users/Ben/git/ChemistryCoursework/
-LaTeX/Planning/Images/Endothermic.jpg>] [21] [22]
+             ung fitted to a glass tube. <U:/git/ChemistryCoursework/LaTeX/Plan
+ning/Images/Endothermic.jpg>] [21] [22]
 Underfull \hbox (badness 10000) in paragraph at lines 447--447
 \OT1/cmr/bx/n/10 Chem-i-
  []
@@ -1383,8 +1385,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.11})
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.573 \end{enumerate}
-                      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Imag
-es/GasSyringe.jpg>]
+                      <U:/git/ChemistryCoursework/LaTeX/Planning/Images/GasSyri
+nge.jpg>]
 <./Planning/Images/InvertedBurette.jpg, id=536, 252.945pt x 224.33812pt>
 File: ./Planning/Images/InvertedBurette.jpg Graphic file (type jpg)
 
@@ -1398,9 +1400,9 @@ re.2.12}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.637 \item B
-             alance (reading to 0.01 g) <C:/Users/Ben/git/ChemistryCoursework/L
-aTeX/Planning/Images/InvertedBurette.jpg>]
-<./Planning/Images/MassChange.pdf, id=553, 310.15875pt x 324.21124pt>
+             alance (reading to 0.01 g) <U:/git/ChemistryCoursework/LaTeX/Plann
+ing/Images/InvertedBurette.jpg>]
+<./Planning/Images/MassChange.pdf, id=554, 310.15875pt x 324.21124pt>
 File: ./Planning/Images/MassChange.pdf Graphic file (type pdf)
 
 <use ./Planning/Images/MassChange.pdf>
@@ -1413,12 +1415,12 @@ Package pdftex.def Info: ./Planning/Images/MassChange.pdf used on input line 64
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.654 \item W
-             eigh out 1.0 g of granulated zinc. <C:/Users/Ben/git/ChemistryCour
-sework/LaTeX/Planning/Images/MassChange.pdf>]) [30]
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.tex
+             eigh out 1.0 g of granulated zinc. <U:/git/ChemistryCoursework/LaT
+eX/Planning/Images/MassChange.pdf>]) [30]
+(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.tex
 Chapter 3.
 
-<./preliminarywork/images/GranulatedZinc.jpg, id=578, 3276.24pt x 982.67125pt>
+<./preliminarywork/images/GranulatedZinc.jpg, id=579, 3276.24pt x 982.67125pt>
 File: ./preliminarywork/images/GranulatedZinc.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/GranulatedZinc.jpg>
@@ -1435,9 +1437,9 @@ has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.27 
-      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Granul
-atedZinc.jpg>]
-<./preliminarywork/Graphs/GasSyringe.pdf, id=584, 597.23125pt x 389.455pt>
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/GranulatedZinc.j
+pg>]
+<./preliminarywork/Graphs/GasSyringe.pdf, id=585, 597.23125pt x 389.455pt>
 File: ./preliminarywork/Graphs/GasSyringe.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/Graphs/GasSyringe.pdf>
@@ -1445,7 +1447,7 @@ Package pdftex.def Info: ./preliminarywork/Graphs/GasSyringe.pdf used on input
 line 35.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./preliminarywork/Graphs/Burette.pdf, id=587, 597.23125pt x 389.455pt>
+<./preliminarywork/Graphs/Burette.pdf, id=588, 597.23125pt x 389.455pt>
 File: ./preliminarywork/Graphs/Burette.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/Graphs/Burette.pdf>
@@ -1458,16 +1460,15 @@ e 45.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.48 
-      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/GasSyr
-inge.pdf>] [33pdfTeX warning (ext4): destination with the same identifier (name
-{figure.3.3}) has been already used, duplicate ignored
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/GasSyringe.pdf>]
+[33pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.61 
-      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/Burett
-e.pdf>]
-<./preliminarywork/graphs/Temperature.pdf, id=614, 597.23125pt x 389.455pt>
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/Burette.pdf>]
+<./preliminarywork/graphs/Temperature.pdf, id=615, 597.23125pt x 389.455pt>
 File: ./preliminarywork/graphs/Temperature.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/graphs/Temperature.pdf>
@@ -1475,37 +1476,35 @@ Package pdftex.def Info: ./preliminarywork/graphs/Temperature.pdf used on input
  line 64.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./preliminarywork/images/ThermometerSetUp.jpg, id=615, 2457.18pt x 3276.24pt>
-File: ./preliminarywork/images/ThermometerSetUp.jpg Graphic file (type jpg)
-
-<use ./preliminarywork/images/ThermometerSetUp.jpg>
-Package pdftex.def Info: ./preliminarywork/images/ThermometerSetUp.jpg used on 
+<./preliminarywork/images/ThermometerSetUp.pdf, id=616, 597.23125pt x 341.275pt
+>
+File: ./preliminarywork/images/ThermometerSetUp.pdf Graphic file (type pdf)
+ <use ./preliminarywork/images/ThermometerSetUp.pdf>
+Package pdftex.def Info: ./preliminarywork/images/ThermometerSetUp.pdf used on 
 input line 71.
-(pdftex.def)             Requested size: 345.0pt x 459.97026pt.
+(pdftex.def)             Requested size: 345.0pt x 197.14288pt.
  [34pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.74 
-      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/graphs/Temper
-ature.pdf>] [35pdfTeX warning (ext4): destination with the same identifier (nam
-e{figure.3.5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.76 
-      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Thermo
-meterSetUp.jpg>]
-<./preliminarywork/images/BeforePush.jpg, id=632, 3276.24pt x 2457.18pt>
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/graphs/Temperature.pdf>
+] <./preliminarywork/images/BeforePush.jpg, id=628, 3276.24pt x 2457.18pt>
 File: ./preliminarywork/images/BeforePush.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/BeforePush.jpg>
 Package pdftex.def Info: ./preliminarywork/images/BeforePush.jpg used on input 
 line 78.
 (pdftex.def)             Requested size: 345.0pt x 258.74263pt.
+ [35pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+5}) has been already used, duplicate ignored
 
-<./preliminarywork/images/AfterPush.jpg, id=633, 3276.24pt x 2457.18pt>
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.81 
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/ThermometerSetUp
+.pdf>] <./preliminarywork/images/AfterPush.jpg, id=639, 3276.24pt x 2457.18pt>
 File: ./preliminarywork/images/AfterPush.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/AfterPush.jpg>
@@ -1518,79 +1517,100 @@ ine 85.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.88 
-      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Before
-Push.jpg>] [37pdfTeX warning (ext4): destination with the same identifier (name
-{figure.3.7}) has been already used, duplicate ignored
+      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/BeforePush.jpg>]
+[37pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7
+}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.100 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/After
-Push.jpg>]
-<./preliminarywork/images/GasSyringeRawData.jpg, id=648, 225.09094pt x 218.3156
-3pt>
-File: ./preliminarywork/images/GasSyringeRawData.jpg Graphic file (type jpg)
- <use ./preliminarywork/images/GasSyringeRawData.jpg>
-Package pdftex.def Info: ./preliminarywork/images/GasSyringeRawData.jpg used on
+       <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/AfterPush.jpg>]
+
+<./preliminarywork/images/GasSyringeRawData.pdf, id=654, 597.23125pt x 304.1362
+5pt>
+File: ./preliminarywork/images/GasSyringeRawData.pdf Graphic file (type pdf)
+ <use ./preliminarywork/images/GasSyringeRawData.pdf>
+Package pdftex.def Info: ./preliminarywork/images/GasSyringeRawData.pdf used on
  input line 114.
-(pdftex.def)             Requested size: 345.0pt x 334.65472pt.
- [38]
-<./preliminarywork/images/BuretteRawData.jpg, id=653, 232.61906pt x 218.31563pt
+(pdftex.def)             Requested size: 345.0pt x 175.6891pt.
+
+<./preliminarywork/images/BuretteRawData.pdf, id=655, 597.23125pt x 304.13625pt
 >
-File: ./preliminarywork/images/BuretteRawData.jpg Graphic file (type jpg)
- <use ./preliminarywork/images/BuretteRawData.jpg>
-Package pdftex.def Info: ./preliminarywork/images/BuretteRawData.jpg used on in
+File: ./preliminarywork/images/BuretteRawData.pdf Graphic file (type pdf)
+ <use ./preliminarywork/images/BuretteRawData.pdf>
+Package pdftex.def Info: ./preliminarywork/images/BuretteRawData.pdf used on in
 put line 119.
-(pdftex.def)             Requested size: 345.0pt x 323.81825pt.
- [39pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
+(pdftex.def)             Requested size: 345.0pt x 175.6891pt.
+ [38pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
 8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.122 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/GasSy
-ringeRawData.jpg>]
-<./preliminarywork/images/TemperatureRawData.jpg, id=658, 140.02313pt x 186.697
-5pt>
-File: ./preliminarywork/images/TemperatureRawData.jpg Graphic file (type jpg)
- <use ./preliminarywork/images/TemperatureRawData.jpg>
-Package pdftex.def Info: ./preliminarywork/images/TemperatureRawData.jpg used o
+       <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/GasSyringeRawDa
+ta.pdf>]
+<./preliminarywork/images/TemperatureRawData.pdf, id=665, 597.23125pt x 304.136
+25pt>
+File: ./preliminarywork/images/TemperatureRawData.pdf Graphic file (type pdf)
+ <use ./preliminarywork/images/TemperatureRawData.pdf>
+Package pdftex.def Info: ./preliminarywork/images/TemperatureRawData.pdf used o
 n input line 124.
-(pdftex.def)             Requested size: 345.0pt x 460.07361pt.
- [40pdfTeX warning (ext4): destination with the same identifier (name{figure.3.
-9}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.127 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Buret
-teRawData.jpg>]) [41pdfTeX warning (ext4): destination with the same identifier
- (name{figure.3.10}) has been already used, duplicate ignored
+(pdftex.def)             Requested size: 345.0pt x 175.6891pt.
+) [39pdfTeX warning (ext4): destination with the same identifier (name{figure.3
+.9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.15 \include{./PreliminaryWork/PreliminaryWork}
-                                                 <C:/Users/Ben/git/ChemistryCou
-rsework/LaTeX/preliminarywork/images/TemperatureRawData.jpg>]
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.tex
+                                                pdfTeX warning (ext4): destinat
+ion with the same identifier (name{figure.3.10}) has been already used, duplica
+te ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.15 \include{./PreliminaryWork/PreliminaryWork}
+                                                 <U:/git/ChemistryCoursework/La
+TeX/preliminarywork/images/BuretteRawData.pdf> <U:/git/ChemistryCoursework/LaTe
+X/preliminarywork/images/TemperatureRawData.pdf
+
+pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/preliminary
+work/images/TemperatureRawData.pdf): PDF inclusion: multiple pdfs with page gro
+up included in a single page
+>] (U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.tex
 Chapter 4.
-[42
+
+<./Experiment/Images/1NonCatalyst/2Molar.pdf, id=679, 597.23125pt x 304.13625pt
+>
+File: ./Experiment/Images/1NonCatalyst/2Molar.pdf Graphic file (type pdf)
+ <use ./Experiment/Images/1NonCatalyst/2Molar.pdf>
+Package pdftex.def Info: ./Experiment/Images/1NonCatalyst/2Molar.pdf used on in
+put line 10.
+(pdftex.def)             Requested size: 345.0pt x 175.6891pt.
+ [40
 
 
 
-]) [43] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.tex
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.29 	\subsection
+                 {0.2 Molar Sulfuric Acid} <U:/git/ChemistryCoursework/LaTeX/Ex
+periment/Images/1NonCatalyst/2Molar.pdf>] [41]) [42]
+(U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.tex
 Chapter 5.
+) [43
+
+
+
+] (U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.tex
+Chapter 6.
 ) [44
 
 
 
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.tex
-Chapter 6.
-) [45
-
-
-
-] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.tex
+] (U:\git\ChemistryCoursework\LaTeX\References\References.tex
 Chapter 7.
 
 Overfull \hbox (16.77559pt too wide) in paragraph at lines 10--11
@@ -1622,7 +1642,7 @@ $\OT1/cmtt/m/n/10 edu / Physical _ Chemistry / Kinetics / Reaction _ Rates / Me
 asuring _ Reaction _$
  []
 
-[46
+[45
 
 
 
@@ -1674,7 +1694,7 @@ $\OT1/cmtt/m/n/10 co . uk / inorganic / complexions / whatis . html$[] \OT1/cmr
 /m/n/10 - Ac-cessed 9:18, 24/03/2015. 
  []
 
-[47]
+[46]
 Overfull \hbox (0.79065pt too wide) in paragraph at lines 71--72
 []\OT1/cmr/m/n/10 Figure 2.11 - Gas Sy-ringe Ex-per-i-ment - []$\OT1/cmtt/m/n/1
 0 http : / / www . bbc . co . uk / schools /$
@@ -1692,31 +1712,35 @@ $\OT1/cmtt/m/n/10 za / science / grade-[]12 / 07-[]rate-[]and-[]extent-[]of-[]r
 eaction / 07-[]rate-[]and-[]extent-[]of-[]reaction-[]03 .$
  []
 
-) [48]
+) [47]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
- (C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.aux
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux
-) (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
-(C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.aux))
+ (U:\git\ChemistryCoursework\LaTeX\coursework.aux
+(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
+(U:\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
+(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux)
+(U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
+(U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
+(U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
+(U:\git\ChemistryCoursework\LaTeX\References\References.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `coursework.out' has not changed.
 (rerunfilecheck)             Checksum: 0E69936AD40B4EF697FDBB414404942B;5247.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 10226 strings out of 493921
- 150327 string characters out of 3144881
- 275320 words of memory out of 3000000
- 13120 multiletter control sequences out of 15000+200000
+ 10232 strings out of 493921
+ 150276 string characters out of 3144876
+ 275360 words of memory out of 3000000
+ 13124 multiletter control sequences out of 15000+200000
  10403 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,12n,45p,1343b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,12n,45p,1333b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
@@ -1730,9 +1754,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 
 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on coursework.pdf (49 pages, 6889510 bytes).
+Output written on coursework.pdf (48 pages, 6262392 bytes).
 PDF statistics:
- 829 PDF objects out of 1000 (max. 8388607)
+ 850 PDF objects out of 1000 (max. 8388607)
  184 named destinations out of 1000 (max. 500000)
- 684 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 689 words of extra memory for PDF output out of 10000 (max. 10000000)
 

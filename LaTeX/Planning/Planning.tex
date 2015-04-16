@@ -7,7 +7,7 @@
 
 The definition of a rate of reaction is the rate at which reactants are converted into products. This has the mathematical equation of $Rate = \frac{\Delta Concentration}{Time}$. Finding the rate of reaction is obtained by studying the chemical kinetics of a specific reaction. The rate of reaction gives you important information such as, whether a reaction takes place at all, or how fast a reaction will occur. These chemical ideas are very important in the chemical industry as they allow for companies to reduce the cost and time in producing a product. The balanced chemical reaction only describes the stoichiometry between the reactants present and the amount of products that can be formed from them. Therefore rates are commonly used along side the balanced equation to get a further understanding of the reactions' process.
 
-	\subsection{Factors that Affect the Rate of Reaction} %Boltzman/maxwell Distribution of enthalpy level diagrams to illustrate affect of factors e.g catalyst
+	\subsection{Factors that Affect the Rate of Reaction} \label{factors}
 
 Increasing the concentration of the reactants increases the rate of reaction, up to a terminal concentration. This can be explained as two substances physically are unable to react with each other unless their particles come into contact with each other with enough kinetic energy (above the activation energy level). This means that if there is no contact between the particles, or the particles do not have enough kinetic energy, the rate of reaction will be zero. In contrast to this the higher the concentration of the reactants the more likely the particles are to collide above the activation energy per unit time allowing for a reaction to occur.
 
@@ -53,6 +53,8 @@ As a general rule of thumb, introducing low amounts of solvents will increase th
 
 Solvents have an impact on the  rate of reaction if they have high dielectric constants, whereas the non-polar solvents have little or no impact on the rate of reaction. The dielectric constant is a measure of the ability to increase the capacitance of a condenser. These constants increase with the movement of intermolecular dipoles as they align with the external electric field. This means that with a high dielectric constant, the ability of the molecule to spread the charges increases. This is a macroscopic property and influences how the solvent interacts with the solutes. This then allows for protic solvents to increase the rate of reaction along with other solvent properties such as: Empirical polarity criteria, solvent electrophilicity, solvent nucleophilicity and solvent cohesivity$^5$.
 
+More about enthalpy level diagrams and Maxwell-Boltzmann distribution can be found in section \ref{MaxwellDistribution} on page \pageref{MaxwellDistribution}. This outlines the specific affect that these factors have on the mechanism behind speeding up the rate of reactions. 
+
 	\subsection{Rate Equations} %More about rate constant K and how it changes with temp and units.
 
 The rate equation shows you how fast a reaction occurs with respect to the reactants/products. The general rate equation can be expressed as:
@@ -66,16 +68,24 @@ Where:
 \item '[B]' is the concentration of B
 \item 'm' and 'n' are the orders of A and B, respectively.
 \end{itemize}
-The values of m and n can only be determined experimentally and do not directly relate to the moles of the substance. The addition of m and n give you the overall order of the reaction. As the rate equation is a differential equation, it can be integrated to give the integrated rate equation. This links the concentrations of individual reactants or products over time.
 
 
-	\subsection{Orders of Reactions} % Talk about overall order of reactants and differentiate that from the individual order of reactants.
+The values of m and n can only be determined experimentally and do not directly relate to the moles of the substance. The addition of m and n give you the overall order of the reaction. As the rate equation is a differential equation, it can be integrated to give the integrated rate equation. This links the concentrations of individual reactants or products over time. 
+
+
+	\subsection{Orders of Reactions} 
 
 \subsubsection{Zero-Order Reactions}
 
 In a zero-order reaction the rate appears to be completely independent of the concentration of the reactants. This means that increasing or decreasing the concentration of the reactants will not have an impact on the rate of the reaction. This leaves the rate equation to be:
 
 $Rate = k$
+
+In respect to the zero-order reactant; however the reactants that have an impact on the rate of reaction are still shown in the equation. For example, if [A] doesn't change the rate of reaction when its concentration is varied but [B] does (as a first order reactant), the equation would be:
+
+$Rate = k [B]$
+
+This equation shows that [A] has no impact on the rate of reaction, but [B] is a first-oder reactant, so overall the rate equation would be first-order.
 
 This equation can also be represented as a rate vs concentration graph. This is shown below and illustrates that the rate of reaction does not vary when the concentration of reactants increase.
 
@@ -96,13 +106,13 @@ This usually occurs when a reaction is catalysed by heterogeneous catalysis or t
 
 $N_2O \rightarrow N_2(g) + \dfrac{1}{2} O_2(g)$
 
-The reaction above occurs in the presence of a hot platinum wire catalyst. In this reaction the $N_20$ molecules are limited to the surface area available on the catalyst. Once all of the surface area is occupied at a given time the reaction has an order of zero. This continues until the a part of the surface area is freed up after the products desorb from the catalyst surface and diffuse away$^6$.
+The reaction above occurs in the presence of a hot platinum wire catalyst. In this reaction the $N_20$ molecules are limited to the surface area available on the catalyst. Once all of the surface area is occupied at a given time the reaction has an order of zero. This continues until the a part of the surface area is freed up after the products desorb from the catalyst surface and diffuse away$^6$. Zero-order reactants have no units as they do not impact the reaction.
 
 
 
 \subsubsection{First-Order Reactions}
 
-A first-order reactions' rate depends linearly on one single reactants concentration. This can be shown by the differential rate equation:
+A first-order reactions' rate depends linearly on one single reactants concentration; however this does not mean another reactant couldn't have an impact on the rate. For a single first-order reactant can be shown by the differential rate equation:
 
 $Rate = k[A]$
 
@@ -131,6 +141,15 @@ Both of these rate equation exhibit a second-order reaction. The first example o
 \end{figure}
 
 The rate constants unit can be obtained mathematically by rearranging the equations units to equal 'k'. When this is done the rate constants unit is mol dm$^{-3} s^{-1}$.
+
+\subsubsection{Third-Order Reactions}
+
+Some reactions have multiple reactants, or reactants that are second-order and first-order, thus resulting in a third-order reaction overall. Examples of this include, but aren't limited to:
+
+$Rate = k [A] [B]^2$
+$Rate = k [A] [B] [C]$
+
+The unit of k for a third-order reaction is mol$^{-2}$ dm$^{-6}$ s$^{-1}$.
 
 
 
@@ -219,7 +238,7 @@ The strength of an acid is not related to its concentration. Both weak and stron
 
 
 
-	\subsection{Catalysts}
+	\subsection{Catalysts} \label{catalysts}
 
 Catalysts are used to speed up the rate of a chemical reaction by finding an alternate pathway of lower activation energy. They do not get used up in a chemical reaction and can be recovered chemically unchanged, often only tiny amounts of catalysts are needed for the catalysts optimum potential$^9$. Although catalysts are not used up in the reaction, they may be destroyed, deactivated or inhibited by a different process. 
 
@@ -317,6 +336,35 @@ Complexes contain a coordination number which identifies the number of dative bo
 \end{figure}
 
 
+\subsection Maxwell-Boltzmann Distributions \label{MaxwellDistribution}
+
+The Maxwell-Boltzmann distribution is used to identify the kinetic energy distribution for a reaction. The mathematical equation for working out the Maxwell-Boltzman distribution is equivalent to:
+
+$\dfrac{dN}{N}= \left(\frac{m}{2\pi k_BT} \right)^{1/2}e^{\frac{-mv^2}{2k_BT}}dv$ $^{17}$
+
+Where:
+
+\begin{itemize}
+\item dN/N is the fraction of molecules moving at velocity v to v + dv.
+\item m is the mass of the molecule.
+\item kb is the Boltzmann constant.
+\item T is the absolute temperature.
+\end{itemize}
+
+As discussed before, the factors that affect the rate of reaction can be illustrated by the Maxwell-Boltzmann distribution graphs. By increasing the temperature the rate of reaction increases as more particles have a kinetic energy that exceeds the activation energy of the reaction. The graph below shows two curves, both of which are at different temperatures (300 K and 310 K). As shown by the graph the increase in temperature results in the peak of the graph shifting to the right and decreasing in height. This shows that there is an increased frequency of  successful collisions. Increasing the temperature does not change the area of the graph as the number of particles to begin with remain the same.
+
+\begin{figure}[H]
+    \includegraphics[width=\textwidth]{./Planning/Images/TemperatureMaxwell.png}
+    \caption{Temperature affect on the Maxwell-Boltzmann Distribution Graph} \label{fig:TemperatureMaxwell}
+\end{figure}
+
+The effect of adding a catalyst provides an alternative route of lower activation energy, thus speeding up the rate of reaction. An in depth analysis of catalyst affect can be found in the catalyst and factors that affect reactions in sections \ref{catalysts} and \ref{factors} on pages \pageref{catalysts} and \pageref{factors}. As shown by the graph below, the lower activation energy leads to more particles having kinetic energy greater than the activation energy. Therefore more particles react, which ultimately leads to a faster reaction.
+
+\begin{figure}[H]
+    \includegraphics[width=\textwidth]{./Planning/Images/CatalysedMaxwell.png}
+    \caption{Catalyst affect on the Maxwell-Boltzmann Distribution Graph} \label{fig:CatalystMaxwell}
+\end{figure}
+
 
 
 	\subsection{Enthalpy Level Diagrams}	
@@ -325,14 +373,14 @@ Enthalpy is the heat energy content of a substance. The net heat energy transfer
 
 $\Delta H^\circ = \sum {H^\circ _f {\rm{products}}} - \sum {H^\circ _f {\rm{reactants}}}$
 
-An exothermic reaction would produce a negative $\Delta H$ value as the enthalpy of the reaction system is decreasing. This occurs as heat energy is given out from the system to the surroundings. 
+An exothermic reaction would produce a negative $\Delta H$ value as the enthalpy of the reaction system is decreasing. This occurs as heat energy is given out from the system to the surroundings. Therefore the greater the heat energy released from the reaction, the more exothermic the reaction and therefore the further above the reactants enthalpy level would be in comparison to the products.
 
 \begin{figure}[H]
     \includegraphics[width=\textwidth]{./Planning/Images/Exothermic.jpg}
     \caption{Exothermic Enthalpy Diagram} \label{fig:Exothermic}
 \end{figure}
 
-An endothermic reaction would produce a positive $\Delta H$ value as the enthalpy of the reaction system is increasing. This occurs as heat energy is absorbed in from the surroundings.
+An endothermic reaction would produce a positive $\Delta H$ value as the enthalpy of the reaction system is increasing. This occurs as heat energy is absorbed in from the surroundings. Therefore the lower the heat energy (the more heat energy that is taken into the reaction), the more endothermic the reaction would be and therefore the further below the reactants enthalpy level would be in comparison to the products.
 
 \begin{figure}[H]
     \includegraphics[width=\textwidth]{./Planning/Images/Endothermic.jpg}
@@ -348,8 +396,14 @@ All enthalpy equations are carried out under standard conditions which has 3 cri
 \item 1 Molar Solutions.
 \end{enumerate}
 
-The state symbols also need to be involved as the molecules have different amounts of energy in different states.
+The state symbols also need to be involved as the molecules have different amounts of energy in different states. 
 
+Catalysts do not change the enthalpy value of the reaction. Catalysts only change the activation energy required to start a successful collision.
+
+
+
+
+	
 	
 
 

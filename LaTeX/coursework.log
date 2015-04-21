@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  21 APR 2015 17:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  21 APR 2015 21:54
 entering extended mode
 **C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
 (C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
@@ -2110,7 +2110,7 @@ File: ./Analysis/Images/1NonCatalyst/2Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/2Molar.pdf>
 Package pdftex.def Info: ./Analysis/Images/1NonCatalyst/2Molar.pdf used on inpu
-t line 14.
+t line 12.
 (pdftex.def)             Requested size: 345.0pt x 208.73955pt.
  [63
 
@@ -2162,63 +2162,63 @@ ut line 47.
 l.50 
       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/
 28Molar.pdf>]
-<./Analysis/Images/1NonCatalyst/36Molar.pdf, id=1148, 597.23125pt x 361.35pt>
+<./Analysis/Images/1NonCatalyst/36Molar.pdf, id=1150, 597.23125pt x 361.35pt>
 File: ./Analysis/Images/1NonCatalyst/36Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/36Molar.pdf>
 Package pdftex.def Info: ./Analysis/Images/1NonCatalyst/36Molar.pdf used on inp
-ut line 58.
+ut line 60.
 (pdftex.def)             Requested size: 345.0pt x 208.73955pt.
  [67pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.61 
+l.63 
       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/
 32Molar.pdf>]
-<./Analysis/Images/1NonCatalyst/40Molar.pdf, id=1160, 597.23125pt x 361.35pt>
+<./Analysis/Images/1NonCatalyst/40Molar.pdf, id=1162, 597.23125pt x 361.35pt>
 File: ./Analysis/Images/1NonCatalyst/40Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/40Molar.pdf>
 Package pdftex.def Info: ./Analysis/Images/1NonCatalyst/40Molar.pdf used on inp
-ut line 69.
+ut line 71.
 (pdftex.def)             Requested size: 345.0pt x 208.73955pt.
  [68pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.72 
+l.74 
       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/
 36Molar.pdf>]
-<./Analysis/Images/1NonCatalyst/Rates.pdf, id=1172, 597.23125pt x 247.92625pt>
+<./Analysis/Images/1NonCatalyst/Rates.pdf, id=1174, 597.23125pt x 247.92625pt>
 File: ./Analysis/Images/1NonCatalyst/Rates.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/Rates.pdf>
 Package pdftex.def Info: ./Analysis/Images/1NonCatalyst/Rates.pdf used on input
- line 82.
+ line 84.
 (pdftex.def)             Requested size: 345.0pt x 143.21852pt.
 
-<./Analysis/Images/1NonCatalyst/ProgressGraph.pdf, id=1173, 597.23125pt x 389.4
+<./Analysis/Images/1NonCatalyst/ProgressGraph.pdf, id=1175, 597.23125pt x 389.4
 55pt>
 File: ./Analysis/Images/1NonCatalyst/ProgressGraph.pdf Graphic file (type pdf)
  <use ./Analysis/Images/1NonCatalyst/ProgressGraph.pdf>
 Package pdftex.def Info: ./Analysis/Images/1NonCatalyst/ProgressGraph.pdf used 
-on input line 89.
+on input line 91.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [69pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 6}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.91 \end{figure}
+l.93 \end{figure}
                  pdfTeX warning (ext4): destination with the same identifier (n
 ame{figure.5.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.91 \end{figure}
+l.93 \end{figure}
                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1
 NonCatalyst/40Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/I
 mages/1NonCatalyst/Rates.pdf
@@ -2226,131 +2226,146 @@ mages/1NonCatalyst/Rates.pdf
 pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/A
 nalysis/Images/1NonCatalyst/Rates.pdf): PDF inclusion: multiple pdfs with page 
 group included in a single page
->] [70pdfTeX warning (ext4): destination with the same identifier (name{figure.
-5.8}) has been already used, duplicate ignored
+>]
+<./Analysis/Images/UncatalysedMechanism.pdf, id=1193, 597.23125pt x 426.59375pt
+>
+File: ./Analysis/Images/UncatalysedMechanism.pdf Graphic file (type pdf)
+ <use ./Analysis/Images/UncatalysedMechanism.pdf>
+Package pdftex.def Info: ./Analysis/Images/UncatalysedMechanism.pdf used on inp
+ut line 112.
+(pdftex.def)             Requested size: 345.0pt x 246.42862pt.
+ [70pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.115 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst
-/ProgressGraph.pdf>]
-<./Analysis/Images/2Catalysed/02Molar.pdf, id=1208, 597.23125pt x 389.455pt>
+l.114 \end{figure}
+                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/
+1NonCatalyst/ProgressGraph.pdf>] [71pdfTeX warning (ext4): destination with the
+ same identifier (name{figure.5.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.131 
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/UncatalysedM
+echanism.pdf>]
+<./Analysis/Images/2Catalysed/02Molar.pdf, id=1239, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/2Catalysed/02Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/02Molar.pdf>
 Package pdftex.def Info: ./Analysis/Images/2Catalysed/02Molar.pdf used on input
- line 118.
+ line 134.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./Analysis/Images/2Catalysed/04Molar.pdf, id=1209, 597.23125pt x 389.455pt>
+<./Analysis/Images/2Catalysed/04Molar.pdf, id=1240, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/2Catalysed/04Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/04Molar.pdf>
 Package pdftex.def Info: ./Analysis/Images/2Catalysed/04Molar.pdf used on input
- line 129.
-(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
- [71pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
-9}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.132 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
-2Molar.pdf>]
-<./Analysis/Images/2Catalysed/06Molar.pdf, id=1221, 597.23125pt x 389.455pt>
-File: ./Analysis/Images/2Catalysed/06Molar.pdf Graphic file (type pdf)
-
-<use ./Analysis/Images/2Catalysed/06Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/2Catalysed/06Molar.pdf used on input
- line 140.
+ line 145.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [72pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 10}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.143 
+l.148 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
-4Molar.pdf>]
-<./Analysis/Images/2Catalysed/08Molar.pdf, id=1234, 597.23125pt x 389.455pt>
-File: ./Analysis/Images/2Catalysed/08Molar.pdf Graphic file (type pdf)
+2Molar.pdf>]
+<./Analysis/Images/2Catalysed/06Molar.pdf, id=1253, 597.23125pt x 389.455pt>
+File: ./Analysis/Images/2Catalysed/06Molar.pdf Graphic file (type pdf)
 
-<use ./Analysis/Images/2Catalysed/08Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/2Catalysed/08Molar.pdf used on input
- line 151.
+<use ./Analysis/Images/2Catalysed/06Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/2Catalysed/06Molar.pdf used on input
+ line 156.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [73pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 11}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.154 
+l.159 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
-6Molar.pdf>]
-<./Analysis/Images/2Catalysed/10Molar.pdf, id=1246, 597.23125pt x 389.455pt>
-File: ./Analysis/Images/2Catalysed/10Molar.pdf Graphic file (type pdf)
+4Molar.pdf>]
+<./Analysis/Images/2Catalysed/08Molar.pdf, id=1265, 597.23125pt x 389.455pt>
+File: ./Analysis/Images/2Catalysed/08Molar.pdf Graphic file (type pdf)
 
-<use ./Analysis/Images/2Catalysed/10Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/2Catalysed/10Molar.pdf used on input
- line 162.
+<use ./Analysis/Images/2Catalysed/08Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/2Catalysed/08Molar.pdf used on input
+ line 167.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [74pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.165 
+l.170 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
-8Molar.pdf>]
-<./Analysis/Images/2Catalysed/12Molar.pdf, id=1258, 597.23125pt x 389.455pt>
-File: ./Analysis/Images/2Catalysed/12Molar.pdf Graphic file (type pdf)
+6Molar.pdf>]
+<./Analysis/Images/2Catalysed/10Molar.pdf, id=1277, 597.23125pt x 389.455pt>
+File: ./Analysis/Images/2Catalysed/10Molar.pdf Graphic file (type pdf)
 
-<use ./Analysis/Images/2Catalysed/12Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/2Catalysed/12Molar.pdf used on input
- line 173.
+<use ./Analysis/Images/2Catalysed/10Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/2Catalysed/10Molar.pdf used on input
+ line 178.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [75pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.176 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/1
-0Molar.pdf>]
-<./Analysis/Images/2Catalysed/Rates.pdf, id=1270, 597.23125pt x 247.92625pt>
-File: ./Analysis/Images/2Catalysed/Rates.pdf Graphic file (type pdf)
+l.181 
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
+8Molar.pdf>]
+<./Analysis/Images/2Catalysed/12Molar.pdf, id=1289, 597.23125pt x 389.455pt>
+File: ./Analysis/Images/2Catalysed/12Molar.pdf Graphic file (type pdf)
 
-<use ./Analysis/Images/2Catalysed/Rates.pdf>
-Package pdftex.def Info: ./Analysis/Images/2Catalysed/Rates.pdf used on input l
-ine 186.
-(pdftex.def)             Requested size: 345.0pt x 143.21852pt.
+<use ./Analysis/Images/2Catalysed/12Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/2Catalysed/12Molar.pdf used on input
+ line 189.
+(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [76pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 14}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.189 
+l.192 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/1
-2Molar.pdf>]
-<./Analysis/Images/2Catalysed/ProgressGraph.pdf, id=1282, 597.23125pt x 389.455
-pt>
-File: ./Analysis/Images/2Catalysed/ProgressGraph.pdf Graphic file (type pdf)
- <use ./Analysis/Images/2Catalysed/ProgressGraph.pdf>
-Package pdftex.def Info: ./Analysis/Images/2Catalysed/ProgressGraph.pdf used on
- input line 193.
-(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
+0Molar.pdf>]
+<./Analysis/Images/2Catalysed/Rates.pdf, id=1301, 597.23125pt x 247.92625pt>
+File: ./Analysis/Images/2Catalysed/Rates.pdf Graphic file (type pdf)
+
+<use ./Analysis/Images/2Catalysed/Rates.pdf>
+Package pdftex.def Info: ./Analysis/Images/2Catalysed/Rates.pdf used on input l
+ine 202.
+(pdftex.def)             Requested size: 345.0pt x 143.21852pt.
  [77pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.198 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-5.16}) has been already used, duplicate ignored
+l.205 
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/1
+2Molar.pdf>]
+<./Analysis/Images/2Catalysed/ProgressGraph.pdf, id=1313, 597.23125pt x 389.455
+pt>
+File: ./Analysis/Images/2Catalysed/ProgressGraph.pdf Graphic file (type pdf)
+ <use ./Analysis/Images/2Catalysed/ProgressGraph.pdf>
+Package pdftex.def Info: ./Analysis/Images/2Catalysed/ProgressGraph.pdf used on
+ input line 209.
+(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
+ [78pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+16}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.198 
+l.214 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+5.17}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.214 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/R
 ates.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalyse
 d/ProgressGraph.pdf
@@ -2359,131 +2374,131 @@ pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/A
 nalysis/Images/2Catalysed/ProgressGraph.pdf): PDF inclusion: multiple pdfs with
  page group included in a single page
 >]
-<./Analysis/Images/3VaryCopperSulfate/001Molar.pdf, id=1306, 597.23125pt x 389.
+<./Analysis/Images/3VaryCopperSulfate/001Molar.pdf, id=1338, 597.23125pt x 389.
 455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/001Molar.pdf Graphic file (type pdf)
 
  <use ./Analysis/Images/3VaryCopperSulfate/001Molar.pdf>
 Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/001Molar.pdf used
- on input line 208.
-(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
-
-<./Analysis/Images/3VaryCopperSulfate/002Molar.pdf, id=1307, 597.23125pt x 389.
-455pt>
-File: ./Analysis/Images/3VaryCopperSulfate/002Molar.pdf Graphic file (type pdf)
-
- <use ./Analysis/Images/3VaryCopperSulfate/002Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/002Molar.pdf used
- on input line 219.
-(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
- [78pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
-17}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.221 \end{figure}
-                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/
-3VaryCopperSulfate/001Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/003Molar.pdf, id=1320, 597.23125pt x 389.
-455pt>
-File: ./Analysis/Images/3VaryCopperSulfate/003Molar.pdf Graphic file (type pdf)
-
- <use ./Analysis/Images/3VaryCopperSulfate/003Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/003Molar.pdf used
- on input line 230.
+ on input line 224.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [79pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 18}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.233 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
-ulfate/002Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/004Molar.pdf, id=1332, 597.23125pt x 389.
+l.232 $
+       Rate = 1.207 \; ml \; s^{-1}$ <C:/Users/Ben/git/ChemistryCoursework/LaTe
+X/Analysis/Images/3VaryCopperSulfate/001Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/002Molar.pdf, id=1350, 597.23125pt x 389.
 455pt>
-File: ./Analysis/Images/3VaryCopperSulfate/004Molar.pdf Graphic file (type pdf)
+File: ./Analysis/Images/3VaryCopperSulfate/002Molar.pdf Graphic file (type pdf)
 
- <use ./Analysis/Images/3VaryCopperSulfate/004Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/004Molar.pdf used
- on input line 241.
+ <use ./Analysis/Images/3VaryCopperSulfate/002Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/002Molar.pdf used
+ on input line 235.
+(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
+
+<./Analysis/Images/3VaryCopperSulfate/003Molar.pdf, id=1351, 597.23125pt x 389.
+455pt>
+File: ./Analysis/Images/3VaryCopperSulfate/003Molar.pdf Graphic file (type pdf)
+
+ <use ./Analysis/Images/3VaryCopperSulfate/003Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/003Molar.pdf used
+ on input line 246.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [80pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 19}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.244 
+l.249 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
-ulfate/003Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/005Molar.pdf, id=1344, 597.23125pt x 389.
+ulfate/002Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/004Molar.pdf, id=1363, 597.23125pt x 389.
 455pt>
-File: ./Analysis/Images/3VaryCopperSulfate/005Molar.pdf Graphic file (type pdf)
+File: ./Analysis/Images/3VaryCopperSulfate/004Molar.pdf Graphic file (type pdf)
 
- <use ./Analysis/Images/3VaryCopperSulfate/005Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/005Molar.pdf used
- on input line 252.
+ <use ./Analysis/Images/3VaryCopperSulfate/004Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/004Molar.pdf used
+ on input line 257.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [81pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 20}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.255 
+l.260 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
-ulfate/004Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/006Molar.pdf, id=1356, 597.23125pt x 389.
+ulfate/003Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/005Molar.pdf, id=1375, 597.23125pt x 389.
 455pt>
-File: ./Analysis/Images/3VaryCopperSulfate/006Molar.pdf Graphic file (type pdf)
+File: ./Analysis/Images/3VaryCopperSulfate/005Molar.pdf Graphic file (type pdf)
 
- <use ./Analysis/Images/3VaryCopperSulfate/006Molar.pdf>
-Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/006Molar.pdf used
- on input line 263.
+ <use ./Analysis/Images/3VaryCopperSulfate/005Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/005Molar.pdf used
+ on input line 268.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [82pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 21}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.266 $
-       Gradient = \frac{70}{45}$ <C:/Users/Ben/git/ChemistryCoursework/LaTeX/An
-alysis/Images/3VaryCopperSulfate/005Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/Rates.pdf, id=1368, 597.23125pt x 247.926
-25pt>
-File: ./Analysis/Images/3VaryCopperSulfate/Rates.pdf Graphic file (type pdf)
- <use ./Analysis/Images/3VaryCopperSulfate/Rates.pdf>
-Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/Rates.pdf used on
- input line 275.
-(pdftex.def)             Requested size: 345.0pt x 143.21852pt.
+l.271 
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
+ulfate/004Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/006Molar.pdf, id=1387, 597.23125pt x 389.
+455pt>
+File: ./Analysis/Images/3VaryCopperSulfate/006Molar.pdf Graphic file (type pdf)
+
+ <use ./Analysis/Images/3VaryCopperSulfate/006Molar.pdf>
+Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/006Molar.pdf used
+ on input line 279.
+(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [83pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 22}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.278 
+l.282 $
+       Gradient = \frac{70}{45}$ <C:/Users/Ben/git/ChemistryCoursework/LaTeX/An
+alysis/Images/3VaryCopperSulfate/005Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/Rates.pdf, id=1399, 597.23125pt x 247.926
+25pt>
+File: ./Analysis/Images/3VaryCopperSulfate/Rates.pdf Graphic file (type pdf)
+ <use ./Analysis/Images/3VaryCopperSulfate/Rates.pdf>
+Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/Rates.pdf used on
+ input line 291.
+(pdftex.def)             Requested size: 345.0pt x 143.21852pt.
+ [84pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+23}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.294 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
 ulfate/006Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/ProgressGraph.pdf, id=1380, 597.23125pt x
+<./Analysis/Images/3VaryCopperSulfate/ProgressGraph.pdf, id=1412, 597.23125pt x
  389.455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/ProgressGraph.pdf Graphic file (type
  pdf)
  <use ./Analysis/Images/3VaryCopperSulfate/ProgressGraph.pdf>
 Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/ProgressGraph.pdf
- used on input line 282.
+ used on input line 298.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-[84pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2
-3}) has been already used, duplicate ignored
+[85pdfTeX warning (ext4): destination with the same identifier (name{figure.5.2
+4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.287 
+l.303 
       pdfTeX warning (ext4): destination with the same identifier (name{figure.
-5.24}) has been already used, duplicate ignored
+5.25}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.287 
+l.303 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
 ulfate/Rates.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3
 VaryCopperSulfate/ProgressGraph.pdf
@@ -2492,73 +2507,73 @@ pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/A
 nalysis/Images/3VaryCopperSulfate/ProgressGraph.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
 >]
-<./Analysis/Images/4DifferentCatalysts/Nickel.pdf, id=1406, 597.23125pt x 389.4
+<./Analysis/Images/4DifferentCatalysts/Nickel.pdf, id=1437, 597.23125pt x 389.4
 55pt>
 File: ./Analysis/Images/4DifferentCatalysts/Nickel.pdf Graphic file (type pdf)
  <use ./Analysis/Images/4DifferentCatalysts/Nickel.pdf>
 Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Nickel.pdf used 
-on input line 301.
+on input line 317.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./Analysis/Images/4DifferentCatalysts/Manganese.pdf, id=1407, 597.23125pt x 38
+<./Analysis/Images/4DifferentCatalysts/Manganese.pdf, id=1438, 597.23125pt x 38
 9.455pt>
 File: ./Analysis/Images/4DifferentCatalysts/Manganese.pdf Graphic file (type pd
 f)
  <use ./Analysis/Images/4DifferentCatalysts/Manganese.pdf>
 Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Manganese.pdf us
-ed on input line 306.
-(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
- [85pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
-25}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.309 
-       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCa
-talysts/Nickel.pdf>]
-<./Analysis/Images/4DifferentCatalysts/Iron.pdf, id=1419, 597.23125pt x 389.455
-pt>
-File: ./Analysis/Images/4DifferentCatalysts/Iron.pdf Graphic file (type pdf)
- <use ./Analysis/Images/4DifferentCatalysts/Iron.pdf>
-Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Iron.pdf used on
- input line 311.
+ed on input line 322.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [86pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 26}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.314 
+l.325 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCa
-talysts/Manganese.pdf>]
-<./Analysis/Images/4DifferentCatalysts/Rates.pdf, id=1431, 597.23125pt x 247.92
-625pt>
-File: ./Analysis/Images/4DifferentCatalysts/Rates.pdf Graphic file (type pdf)
- <use ./Analysis/Images/4DifferentCatalysts/Rates.pdf>
-Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Rates.pdf used o
-n input line 318.
-(pdftex.def)             Requested size: 345.0pt x 143.21852pt.
-
-<./Analysis/Images/4DifferentCatalysts/Comparison.pdf, id=1432, 597.23125pt x 3
-89.455pt>
-File: ./Analysis/Images/4DifferentCatalysts/Comparison.pdf Graphic file (type p
-df)
- <use ./Analysis/Images/4DifferentCatalysts/Comparison.pdf>
-Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Comparison.pdf u
-sed on input line 326.
+talysts/Nickel.pdf>]
+<./Analysis/Images/4DifferentCatalysts/Iron.pdf, id=1450, 597.23125pt x 389.455
+pt>
+File: ./Analysis/Images/4DifferentCatalysts/Iron.pdf Graphic file (type pdf)
+ <use ./Analysis/Images/4DifferentCatalysts/Iron.pdf>
+Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Iron.pdf used on
+ input line 327.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [87pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 27}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.329 
-      pdfTeX warning (ext4): destination with the same identifier (name{figure.
-5.28}) has been already used, duplicate ignored
+l.330 
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCa
+talysts/Manganese.pdf>]
+<./Analysis/Images/4DifferentCatalysts/Rates.pdf, id=1462, 597.23125pt x 247.92
+625pt>
+File: ./Analysis/Images/4DifferentCatalysts/Rates.pdf Graphic file (type pdf)
+ <use ./Analysis/Images/4DifferentCatalysts/Rates.pdf>
+Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Rates.pdf used o
+n input line 334.
+(pdftex.def)             Requested size: 345.0pt x 143.21852pt.
+
+<./Analysis/Images/4DifferentCatalysts/Comparison.pdf, id=1463, 597.23125pt x 3
+89.455pt>
+File: ./Analysis/Images/4DifferentCatalysts/Comparison.pdf Graphic file (type p
+df)
+ <use ./Analysis/Images/4DifferentCatalysts/Comparison.pdf>
+Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Comparison.pdf u
+sed on input line 342.
+(pdftex.def)             Requested size: 345.0pt x 224.97484pt.
+ [88pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+28}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.329 
+l.345 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+5.29}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.345 
        <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCa
 talysts/Iron.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4
 DifferentCatalysts/Rates.pdf
@@ -2566,36 +2581,36 @@ DifferentCatalysts/Rates.pdf
 pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/A
 nalysis/Images/4DifferentCatalysts/Rates.pdf): PDF inclusion: multiple pdfs wit
 h page group included in a single page
->] <./Analysis/Images/Solubility.pdf, id=1450, 597.23125pt x 389.455pt>
+>] <./Analysis/Images/Solubility.pdf, id=1481, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/Solubility.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/Solubility.pdf>
-Package pdftex.def Info: ./Analysis/Images/Solubility.pdf used on input line 34
-1.
+Package pdftex.def Info: ./Analysis/Images/Solubility.pdf used on input line 35
+7.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
- [88pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
-29}) has been already used, duplicate ignored
+ [89pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+30}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.343 \end{figure}
+l.359 \end{figure}
                    <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/
-4DifferentCatalysts/Comparison.pdf>] [89pdfTeX warning (ext4): destination with
- the same identifier (name{figure.5.30}) has been already used, duplicate ignor
+4DifferentCatalysts/Comparison.pdf>] [90pdfTeX warning (ext4): destination with
+ the same identifier (name{figure.5.31}) has been already used, duplicate ignor
 ed
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.357 \item $
+l.373 \item $
              Number \; of \; Moles = \frac{Mass}{Molecular Mass}$ <C:/Users/Ben
-/git/ChemistryCoursework/LaTeX/Analysis/Images/Solubility.pdf>]) [90]
+/git/ChemistryCoursework/LaTeX/Analysis/Images/Solubility.pdf>]) [91]
 (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.tex
 Chapter 6.
-[91
+[92
 
 
 
-] [92]) [93]
+] [93]) [94]
 (C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.tex
 Chapter 7.
 
@@ -2628,7 +2643,7 @@ $\OT1/cmtt/m/n/10 edu / Physical _ Chemistry / Kinetics / Reaction _ Rates / Me
 asuring _ Reaction _$
  []
 
-[94
+[95
 
 
 
@@ -2698,7 +2713,7 @@ Overfull \hbox (130.02376pt too wide) in paragraph at lines 62--63
 heartupdate . com / prevention / ph-[]body-[]influence-[]daily-[]life _$
  []
 
-[95]
+[96]
 Overfull \hbox (6.80496pt too wide) in paragraph at lines 68--69
 []\OT1/cmr/m/n/10 Figure 2.7 - Cop-per Ion d Or-bital Rep-re-sen-ta-tion - []$\
 OT1/cmtt/m/n/10 http : / / www . chemguide .$
@@ -2740,7 +2755,7 @@ $\OT1/cmtt/m/n/10 za / science / grade-[]12 / 07-[]rate-[]and-[]extent-[]of-[]r
 eaction / 07-[]rate-[]and-[]extent-[]of-[]reaction-[]03 .$
  []
 
-) [96]
+) [97]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
  (C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.aux
@@ -2762,10 +2777,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 10722 strings out of 493921
- 165544 string characters out of 3144881
- 281115 words of memory out of 3000000
- 13428 multiletter control sequences out of 15000+200000
+ 10734 strings out of 493921
+ 165827 string characters out of 3144881
+ 281228 words of memory out of 3000000
+ 13433 multiletter control sequences out of 15000+200000
  10403 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  37i,12n,45p,1343b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2784,9 +2799,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX
 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on coursework.pdf (97 pages, 7423042 bytes).
+Output written on coursework.pdf (98 pages, 7445584 bytes).
 PDF statistics:
- 1694 PDF objects out of 1728 (max. 8388607)
- 330 named destinations out of 1000 (max. 500000)
- 1097 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1726 PDF objects out of 1728 (max. 8388607)
+ 336 named destinations out of 1000 (max. 500000)
+ 1102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

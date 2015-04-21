@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.4.20)  20 APR 2015 13:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.10.20)  21 APR 2015 17:01
 entering extended mode
-**U:/git/ChemistryCoursework/LaTeX/coursework.tex
-(U:/git/ChemistryCoursework/LaTeX/coursework.tex
+**C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
+(C:/Users/Ben/git/ChemistryCoursework/LaTeX/coursework.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -32,7 +32,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \bibindent=\dimen102
 )
 \@input{settings.aux}
-(U:\git\ChemistryCoursework\LaTeX\settings.tex
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\settings.tex
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
@@ -250,7 +250,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
@@ -268,18 +268,18 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \lst@lineno=\count93
 \lst@maxwidth=\dimen106
 
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
 \c@lstnumber=\count94
 \lst@skipnumbers=\count95
 \lst@framebox=\box27
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2014/09/06 1.5e listings configuration
 ))
 Package: listings 2014/09/06 1.5e (Carsten Heinz)
 
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\fancybox\fancybox.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancybox\fancybox.sty"
 Package: fancybox 2010/05/15 1.4
 
 Style option: `fancybox' v1.4 <2010/05/15> (tvz)
@@ -323,7 +323,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mathtools.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
 Package: mathtools 2014/07/16 v1.15 mathematical typesetting tools
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
@@ -339,7 +339,7 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count99
 \calc@Cskip=\skip45
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\mathtools\mhsetup.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
@@ -492,7 +492,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count116
 
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -529,10 +529,10 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip50
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\marvosym\marvosym.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\marvosym\marvosym.sty"
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip51
 \enit@outerparindent=\dimen132
@@ -548,14 +548,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks29
 \@floatcapt=\box34
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algpseudocode
-.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algpseudocode.sty"
 Package: algpseudocode 
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithmicx\algorithmicx.
-sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithmicx\algorithmicx.sty"
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -571,12 +570,13 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip54
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithm.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 \@float@every@algorithm=\toks30
 \c@algorithm=\count132
-) (C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\comment\comment.sty
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\comment\comment.sty"
 \CommentStream=\write4
 
 Excluding comment 'comment')
@@ -606,7 +606,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip59
 \f@ncyO@elh=\skip60
 \f@ncyO@erh=\skip61
@@ -617,7 +617,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
 \f@ncyO@olf=\skip66
 \f@ncyO@orf=\skip67
 )
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
@@ -634,17 +634,17 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
-(U:\git\ChemistryCoursework\LaTeX\coursework.aux
-(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
-(U:\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
-(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux)
-(U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
-(U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.aux
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux
+) (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux
 
 LaTeX Warning: Label `fig:ComparisonCat' multiply defined.
 
-) (U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
-(U:\git\ChemistryCoursework\LaTeX\References\References.aux))
+) (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -661,7 +661,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 \c@lstlisting=\count138
 
-(C:\Users\31291\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count139
 \scratchdimen=\dimen134
@@ -689,17 +689,17 @@ LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
 
-(U:\git\ChemistryCoursework\LaTeX\coursework.out)
-(U:\git\ChemistryCoursework\LaTeX\coursework.out)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.out)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.out)
 \@outlinefile=\write5
  [1
 
 
 
-{C:/Users/31291/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(U:\git\ChemistryCoursework\LaTeX\coursework.tocpdfTeX warning (ext4): destinat
-ion with the same identifier (name{page.1}) has been already used, duplicate ig
-nored
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.tocpdfTeX warning (ext4)
+: destination with the same identifier (name{page.1}) has been already used, du
+plicate ignored
 <to be read again> 
                    \relax 
 l.40 ... Gas Syringe Method}{39}{subsection.3.1.3}
@@ -708,12 +708,12 @@ l.40 ... Gas Syringe Method}{39}{subsection.3.1.3}
 ] [2])
 \tf@toc=\write6
  [3]
-(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.tex
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.tex
 Chapter 1.
 ) [4
 
 
-] (U:\git\ChemistryCoursework\LaTeX\Planning\Planning.tex
+] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.tex
 Chapter 2.
 [5
 
@@ -740,8 +740,8 @@ Package pdftex.def Info: ./Planning/Images/ZeroOrder.jpg used on input line 129
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.146 
-       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/ZeroOrder.jpg>]
-<./Planning/Images/FirstOrder.jpg, id=504, 232.61906pt x 150.5625pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/ZeroOrder.jp
+g>] <./Planning/Images/FirstOrder.jpg, id=504, 232.61906pt x 150.5625pt>
 File: ./Planning/Images/FirstOrder.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/FirstOrder.jpg>
@@ -754,8 +754,8 @@ Package pdftex.def Info: ./Planning/Images/FirstOrder.jpg used on input line 15
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.168 \item $
-             Rate = k[A] [B]$ <U:/git/ChemistryCoursework/LaTeX/Planning/Images
-/FirstOrder.jpg>]
+             Rate = k[A] [B]$ <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Plann
+ing/Images/FirstOrder.jpg>]
 <./Planning/Images/SecondOrder.jpg, id=511, 229.60782pt x 157.33781pt>
 File: ./Planning/Images/SecondOrder.jpg Graphic file (type jpg)
 
@@ -769,8 +769,8 @@ Package pdftex.def Info: ./Planning/Images/SecondOrder.jpg used on input line 1
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.184 
-       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/SecondOrder.jpg>]
-[13] <./Planning/Images/pHScale.jpg, id=531, 388.45125pt x 351.3125pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/SecondOrder.
+jpg>] [13] <./Planning/Images/pHScale.jpg, id=531, 388.45125pt x 351.3125pt>
 File: ./Planning/Images/pHScale.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/pHScale.jpg>
@@ -782,8 +782,8 @@ Package pdftex.def Info: ./Planning/Images/pHScale.jpg used on input line 232.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.237 
-       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/pHScale.jpg>]
-<./Planning/Images/Indicators.jpg, id=537, 426.84468pt x 232.61906pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/pHScale.jpg>
+] <./Planning/Images/Indicators.jpg, id=537, 426.84468pt x 232.61906pt>
 File: ./Planning/Images/Indicators.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Indicators.jpg>
@@ -796,8 +796,8 @@ Package pdftex.def Info: ./Planning/Images/Indicators.jpg used on input line 24
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.270 \end{center}
-                   <U:/git/ChemistryCoursework/LaTeX/Planning/Images/Indicators
-.jpg>] [16] [17]
+                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/
+Indicators.jpg>] [16] [17]
 Overfull \hbox (47.97302pt too wide) in paragraph at lines 325--335
  [] 
  []
@@ -829,9 +829,9 @@ entifier (name{figure.2.7}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.369 \item S
-             tereochemistry. <U:/git/ChemistryCoursework/LaTeX/Planning/Images/
-DOrbitals.jpg> <U:/git/ChemistryCoursework/LaTeX/Planning/Images/CopperDOrbital
-.jpg>]
+             tereochemistry. <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planni
+ng/Images/DOrbitals.jpg> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/I
+mages/CopperDOrbital.jpg>]
 <./Planning/Images/ComplexShapes.jpg, id=568, 450.18187pt x 130.98938pt>
 File: ./Planning/Images/ComplexShapes.jpg Graphic file (type jpg)
 
@@ -853,8 +853,8 @@ Package pdftex.def Info: ./Planning/Images/TemperatureMaxwell.png used on input
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.401 \end{figure}
-                   <U:/git/ChemistryCoursework/LaTeX/Planning/Images/ComplexSha
-pes.jpg>]
+                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/
+ComplexShapes.jpg>]
 <./Planning/Images/CatalysedMaxwell.png, id=580, 401.5pt x 214.8025pt>
 File: ./Planning/Images/CatalysedMaxwell.png Graphic file (type png)
 
@@ -868,8 +868,9 @@ ine 406.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.409 
-       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/TemperatureMaxwell.png
->] <./Planning/Images/Exothermic.jpg, id=586, 152.4897pt x 110.5731pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/TemperatureM
+axwell.png>]
+<./Planning/Images/Exothermic.jpg, id=586, 152.4897pt x 110.5731pt>
 File: ./Planning/Images/Exothermic.jpg Graphic file (type jpg)
 
 <use ./Planning/Images/Exothermic.jpg>
@@ -882,7 +883,8 @@ Package pdftex.def Info: ./Planning/Images/Exothermic.jpg used on input line 42
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.424 
-       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/CatalysedMaxwell.png>]
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/CatalysedMax
+well.png>]
 <./Planning/Images/Endothermic.jpg, id=592, 152.4897pt x 110.5731pt>
 File: ./Planning/Images/Endothermic.jpg Graphic file (type jpg)
 
@@ -896,571 +898,571 @@ Package pdftex.def Info: ./Planning/Images/Endothermic.jpg used on input line 4
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.431 
-       <U:/git/ChemistryCoursework/LaTeX/Planning/Images/Exothermic.jpg>]
-[24pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1
-2}) has been already used, duplicate ignored
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images/Exothermic.j
+pg>] [24pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.2.12}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.461 	\subsection
-                  {Mechanisms} <U:/git/ChemistryCoursework/LaTeX/Planning/Image
-s/Endothermic.jpg>] [25] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+                  {Mechanisms} <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Plan
+ning/Images/Endothermic.jpg>] [25] [26] [27]
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
 []\OT1/cmr/bx/n/10 Copper
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
 \OT1/cmr/bx/n/10 Sul-fate
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
 []\OT1/cmr/bx/n/10 Sulfuric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
 \OT1/cmr/bx/n/10 Acid
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
 []\OT1/cmr/bx/n/10 Distilled
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 586--586
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
 \OT1/cmr/bx/n/10 Wa-ter
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 596--596
+Underfull \hbox (badness 2626) in paragraph at lines 626--626
 []\OT1/cmr/m/n/10 100 cm$[]$ of
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 598--598
+Underfull \hbox (badness 2626) in paragraph at lines 628--628
 []\OT1/cmr/m/n/10 120 cm$[]$ of
  []
 
 
-Overfull \hbox (15.98029pt too wide) in paragraph at lines 584--616
+Overfull \hbox (15.98029pt too wide) in paragraph at lines 614--646
  [] 
  []
 
-[27] [28]
-Overfull \hbox (63.04228pt too wide) in paragraph at lines 653--673
+[28]
+Overfull \hbox (63.04228pt too wide) in paragraph at lines 682--702
  [] 
  []
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 686--686
+Underfull \hbox (badness 10000) in paragraph at lines 715--715
 \OT1/cmr/bx/n/10 Chem-i-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 686--686
+Underfull \hbox (badness 10000) in paragraph at lines 715--715
 []|\OT1/cmr/bx/n/10 Source
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 686--686
+Underfull \hbox (badness 10000) in paragraph at lines 715--715
 []|\OT1/cmr/bx/n/10 Control Mea-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 686--686
+Underfull \hbox (badness 10000) in paragraph at lines 715--715
 []|\OT1/cmr/bx/n/10 Emergency
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 688--688
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
 []|\OT1/cmr/m/n/10 Copper
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 688--688
+Underfull \hbox (badness 10000) in paragraph at lines 717--717
 \OT1/cmr/m/n/10 Sul-fate
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 689--689
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 718--718
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 692--692
+Underfull \hbox (badness 3019) in paragraph at lines 721--721
 \OT1/cmr/m/n/10 the En-vi-ron-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 694--695
+Underfull \hbox (badness 10000) in paragraph at lines 723--724
 []\OT1/cmr/m/n/10 Harmful if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 695--695
+Underfull \hbox (badness 10000) in paragraph at lines 724--724
 []\OT1/cmr/m/n/10 Irritating to
  []
 
 
-Underfull \hbox (badness 4217) in paragraph at lines 697--698
+Underfull \hbox (badness 4217) in paragraph at lines 726--727
 []\OT1/cmr/m/n/10 Do not put
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--700
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
 []\OT1/cmr/m/n/10 Keep away
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--700
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
 \OT1/cmr/m/n/10 from wa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 700--700
+Underfull \hbox (badness 10000) in paragraph at lines 729--729
 \OT1/cmr/m/n/10 ter, un-less
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 701--701
+Underfull \hbox (badness 1275) in paragraph at lines 730--730
 \OT1/cmr/m/n/10 litre of wa-ter be-
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 701--701
+Underfull \hbox (badness 1466) in paragraph at lines 730--730
 \OT1/cmr/m/n/10 dis-posal pro-ce-dure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--702
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
 \OT1/cmr/m/n/10 at-ten-tion.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--702
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
 \OT1/cmr/m/n/10 Wash con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--702
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
 \OT1/cmr/m/n/10 tam-i-nated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--704
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
 []|\OT1/cmr/m/n/10 Hydrated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--704
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
 \OT1/cmr/m/n/10 Cop-per
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--704
+Underfull \hbox (badness 10000) in paragraph at lines 733--733
 \OT1/cmr/m/n/10 Sul-fate
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 705--705
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 734--734
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 3019) in paragraph at lines 708--708
+Underfull \hbox (badness 3019) in paragraph at lines 737--737
 \OT1/cmr/m/n/10 the En-vi-ron-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--711
+Underfull \hbox (badness 10000) in paragraph at lines 739--740
 []\OT1/cmr/m/n/10 Harmful if
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 711--711
+Underfull \hbox (badness 10000) in paragraph at lines 740--740
 []\OT1/cmr/m/n/10 Irritating to
  []
 
 
-Underfull \hbox (badness 4217) in paragraph at lines 713--714
+Underfull \hbox (badness 4217) in paragraph at lines 742--743
 []\OT1/cmr/m/n/10 Do not put
  []
 
 
-Underfull \hbox (badness 7576) in paragraph at lines 717--717
+Underfull \hbox (badness 7576) in paragraph at lines 746--746
 []|\OT1/cmr/m/n/10 Crystals may be
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 717--717
+Underfull \hbox (badness 1348) in paragraph at lines 746--746
 \OT1/cmr/m/n/10 0.4 mol dm$[]3$ or
  []
 
 
-Underfull \hbox (badness 1275) in paragraph at lines 717--717
+Underfull \hbox (badness 1275) in paragraph at lines 746--746
 \OT1/cmr/m/n/10 litre of wa-ter be-
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 717--717
+Underfull \hbox (badness 1466) in paragraph at lines 746--746
 \OT1/cmr/m/n/10 dis-posal pro-ce-dure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 718--718
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
 \OT1/cmr/m/n/10 at-ten-tion.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 718--718
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
 \OT1/cmr/m/n/10 Wash con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 718--718
+Underfull \hbox (badness 10000) in paragraph at lines 747--747
 \OT1/cmr/m/n/10 tam-i-nated
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 722--722
-[]|\OT1/cmr/m/n/10 Sulfuric
- []
-
-
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 723--723
-[]|\OT1/cmr/m/n/10 CLEAPSS
- []
-
-
-Underfull \hbox (badness 4108) in paragraph at lines 725--726
-[]\OT1/cmr/m/n/10 Corrosive, if
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--726
-[]\OT1/cmr/m/n/10 Irritant, if
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 727--727
-[]|\OT1/cmr/m/n/10 Causes se-ri-ous
- []
-
-
-Underfull \hbox (badness 3861) in paragraph at lines 729--730
-[]\OT1/cmr/m/n/10 Label: Ir-ri-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 733--733
-[]|\OT1/cmr/m/n/10 Add slowly no
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 733--733
-\OT1/cmr/m/n/10 sodium car-bon-ate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 733--733
-\OT1/cmr/m/n/10 so-lu-tion (con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 733--733
-\OT1/cmr/m/n/10 tain-ing in-di-ca-tor)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 733--733
-\OT1/cmr/m/n/10 which should be
- []
-
-
-Underfull \hbox (badness 4096) in paragraph at lines 733--733
-\OT1/cmr/m/n/10 con-stantly stirred.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 733--733
-\OT1/cmr/m/n/10 Let the mix-ture
- []
-
-
-Underfull \hbox (badness 3657) in paragraph at lines 733--733
-\OT1/cmr/m/n/10 acid. Pour the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 733--733
-\OT1/cmr/m/n/10 so-lu-tion down a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 tam-i-nated
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 as much
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 liq-uid as
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 pos-si-ble off
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 the skin
- []
-
-
-Underfull \hbox (badness 3635) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 with a dry
- []
-
-
-Underfull \hbox (badness 3049) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 cloth be-fore
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 drench-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 the area
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 ex-cess of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 large area
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 is af-fected
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 or blis-ter-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 734--734
-\OT1/cmr/m/n/10 ing oc-curs,
- []
-
-
-Overfull \hbox (6.58487pt too wide) in paragraph at lines 736--736
-[]|\OT1/cmr/m/n/10 Granulated
- []
-
-
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 737--737
-[]|\OT1/cmr/m/n/10 CLEAPSS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 741--741
-[]|\OT1/cmr/m/n/10 Place in nor-mal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 745--745
-[]|\OT1/cmr/m/n/10 Powdered
- []
-
-
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 746--746
-[]|\OT1/cmr/m/n/10 CLEAPSS
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 748--749
-[]\OT1/cmr/m/n/10 Highly
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 749--749
-[]\OT1/cmr/m/n/10 Dangerous
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 750--750
-\OT1/cmr/m/n/10 acid-s/al-kali hy-dro-
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 750--750
-\OT1/cmr/m/n/10 gen is pro-duced,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 751--751
+[]|\OT1/cmr/m/n/10 Sulfuric
+ []
+
+
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 752--752
+[]|\OT1/cmr/m/n/10 CLEAPSS
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 754--755
+[]\OT1/cmr/m/n/10 Corrosive, if
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 755--755
+[]\OT1/cmr/m/n/10 Irritant, if
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+[]|\OT1/cmr/m/n/10 Causes se-ri-ous
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 758--759
+[]\OT1/cmr/m/n/10 Label: Ir-ri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--762
+[]|\OT1/cmr/m/n/10 Add slowly no
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--762
+\OT1/cmr/m/n/10 sodium car-bon-ate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--762
+\OT1/cmr/m/n/10 so-lu-tion (con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--762
+\OT1/cmr/m/n/10 tain-ing in-di-ca-tor)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--762
+\OT1/cmr/m/n/10 which should be
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 762--762
+\OT1/cmr/m/n/10 con-stantly stirred.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--762
+\OT1/cmr/m/n/10 Let the mix-ture
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 762--762
+\OT1/cmr/m/n/10 acid. Pour the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--762
+\OT1/cmr/m/n/10 so-lu-tion down a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 tam-i-nated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 as much
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 liq-uid as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 pos-si-ble off
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 the skin
+ []
+
+
+Underfull \hbox (badness 3635) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 with a dry
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 cloth be-fore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 drench-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 the area
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 ex-cess of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 large area
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 is af-fected
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 or blis-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 763--763
+\OT1/cmr/m/n/10 ing oc-curs,
+ []
+
+
+Overfull \hbox (6.58487pt too wide) in paragraph at lines 765--765
+[]|\OT1/cmr/m/n/10 Granulated
+ []
+
+
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 766--766
+[]|\OT1/cmr/m/n/10 CLEAPSS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 770--770
+[]|\OT1/cmr/m/n/10 Place in nor-mal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 774--774
+[]|\OT1/cmr/m/n/10 Powdered
+ []
+
+
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 775--775
+[]|\OT1/cmr/m/n/10 CLEAPSS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--778
+[]\OT1/cmr/m/n/10 Highly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 778--778
+[]\OT1/cmr/m/n/10 Dangerous
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 779--779
+\OT1/cmr/m/n/10 acid-s/al-kali hy-dro-
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 779--779
+\OT1/cmr/m/n/10 gen is pro-duced,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--780
 []|\OT1/cmr/m/n/10 Keep away from
  []
 
 
-Underfull \hbox (badness 4279) in paragraph at lines 752--752
+Underfull \hbox (badness 4279) in paragraph at lines 781--781
 []|\OT1/cmr/m/n/10 Should be stored
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 752--752
+Underfull \hbox (badness 2150) in paragraph at lines 781--781
 \OT1/cmr/m/n/10 for re-moval by a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 752--752
+Underfull \hbox (badness 10000) in paragraph at lines 781--781
 \OT1/cmr/m/n/10 Reg-is-tered Waste
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 753--754
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
 \OT1/cmr/m/n/10 and ap-ply
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 753--754
+Underfull \hbox (badness 10000) in paragraph at lines 782--783
 \OT1/cmr/m/n/10 any burns.
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 753--754
+Underfull \hbox (badness 1394) in paragraph at lines 782--783
 \OT1/cmr/m/n/10 Alert su-per-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 756--756
+Underfull \hbox (badness 10000) in paragraph at lines 785--785
 []|\OT1/cmr/m/n/10 Zinc
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 756--756
+Underfull \hbox (badness 10000) in paragraph at lines 785--785
 \OT1/cmr/m/n/10 Sul-fate
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 757--758
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 786--787
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 759--760
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
 []|\OT1/cmr/m/n/10 Harmful if swal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 759--760
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
 \OT1/cmr/m/n/10 lowed, dam-aged
  []
 
 
-Underfull \hbox (badness 4001) in paragraph at lines 760--761
+Underfull \hbox (badness 4001) in paragraph at lines 789--790
 []|\OT1/cmr/m/n/10 Wear eye pro-tec-
  []
 
 
-Underfull \hbox (badness 5519) in paragraph at lines 761--762
+Underfull \hbox (badness 5519) in paragraph at lines 790--791
 []|\OT1/cmr/m/n/10 Place in a suit-
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 761--762
+Underfull \hbox (badness 1509) in paragraph at lines 790--791
 \OT1/cmr/m/n/10 able, clos-able, la-
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 762--763
+Underfull \hbox (badness 3942) in paragraph at lines 791--792
 \OT1/cmr/m/n/10 in the eye,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 762--763
+Underfull \hbox (badness 10000) in paragraph at lines 791--792
 \OT1/cmr/m/n/10 sta-tion for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 762--763
+Underfull \hbox (badness 10000) in paragraph at lines 791--792
 \OT1/cmr/m/n/10 atleast 10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 766--766
+Underfull \hbox (badness 10000) in paragraph at lines 795--795
 []|\OT1/cmr/m/n/10 Hydrogen
  []
 
 
-Overfull \hbox (3.01543pt too wide) in paragraph at lines 767--768
+Overfull \hbox (3.01543pt too wide) in paragraph at lines 796--797
 []|\OT1/cmr/m/n/10 CLEAPSS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 770--771
+Underfull \hbox (badness 10000) in paragraph at lines 799--800
 []|\OT1/cmr/m/n/10 Keep away from
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 771--772
+Underfull \hbox (badness 2735) in paragraph at lines 800--801
 \OT1/cmr/m/n/10 vent the ma-te-rial
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 772--773
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 \OT1/cmr/m/n/10 and ap-ply
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 772--773
+Underfull \hbox (badness 10000) in paragraph at lines 801--802
 \OT1/cmr/m/n/10 any burns.
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 772--773
+Underfull \hbox (badness 1394) in paragraph at lines 801--802
 \OT1/cmr/m/n/10 Alert su-per-
  []
 
 
-Overfull \hbox (17.6968pt too wide) in alignment at lines 684--778
+Overfull \hbox (17.6968pt too wide) in alignment at lines 713--807
  [] [] [] [] [] [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 778
+Underfull \vbox (badness 10000) detected at line 807
  []
 
 [30
 
 ] [31] [32]
-Overfull \hbox (86.69524pt too wide) in paragraph at lines 793--806
+Overfull \hbox (86.69524pt too wide) in paragraph at lines 822--835
  [] 
  []
 
-<./Planning/Images/GasSyringe.pdf, id=648, 597.23125pt x 304.13625pt>
+<./Planning/Images/GasSyringe.pdf, id=654, 597.23125pt x 304.13625pt>
 File: ./Planning/Images/GasSyringe.pdf Graphic file (type pdf)
 
 <use ./Planning/Images/GasSyringe.pdf>
-Package pdftex.def Info: ./Planning/Images/GasSyringe.pdf used on input line 83
-6.
+Package pdftex.def Info: ./Planning/Images/GasSyringe.pdf used on input line 86
+5.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
  [33
 
@@ -1469,30 +1471,30 @@ Package pdftex.def Info: ./Planning/Images/GasSyringe.pdf used on input line 83
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.864 \item P
-             lot a graph of rate against concentration. <U:/git/ChemistryCourse
-work/LaTeX/Planning/Images/GasSyringe.pdf>]
-<./Planning/Images/InvertedBurette.pdf, id=691, 597.23125pt x 418.56375pt>
+l.893 \item P
+             lot a graph of rate against concentration. <C:/Users/Ben/git/Chemi
+stryCoursework/LaTeX/Planning/Images/GasSyringe.pdf>]
+<./Planning/Images/InvertedBurette.pdf, id=697, 597.23125pt x 418.56375pt>
 File: ./Planning/Images/InvertedBurette.pdf Graphic file (type pdf)
 
 <use ./Planning/Images/InvertedBurette.pdf>
 Package pdftex.def Info: ./Planning/Images/InvertedBurette.pdf used on input li
-ne 903.
+ne 932.
 (pdftex.def)             Requested size: 345.0pt x 241.78996pt.
  [35] [36pdfTeX warning (ext4): destination with the same identifier (name{figu
 re.2.14}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.917 \end{itemize}
-                    <U:/git/ChemistryCoursework/LaTeX/Planning/Images/InvertedB
-urette.pdf>]
-<./Planning/Images/MassChange.pdf, id=709, 623.32875pt x 324.21124pt>
+l.946 \end{itemize}
+                    <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Planning/Images
+/InvertedBurette.pdf>]
+<./Planning/Images/MassChange.pdf, id=715, 623.32875pt x 324.21124pt>
 File: ./Planning/Images/MassChange.pdf Graphic file (type pdf)
 
 <use ./Planning/Images/MassChange.pdf>
-Package pdftex.def Info: ./Planning/Images/MassChange.pdf used on input line 92
-0.
+Package pdftex.def Info: ./Planning/Images/MassChange.pdf used on input line 94
+9.
 (pdftex.def)             Requested size: 345.0pt x 179.44466pt.
 ) [37pdfTeX warning (ext4): destination with the same identifier (name{figure.2
 .15}) has been already used, duplicate ignored
@@ -1500,12 +1502,12 @@ Package pdftex.def Info: ./Planning/Images/MassChange.pdf used on input line 92
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.12 \include{./Planning/Planning}
-                                   <U:/git/ChemistryCoursework/LaTeX/Planning/I
-mages/MassChange.pdf>]
-(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.tex
+                                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/
+Planning/Images/MassChange.pdf>]
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.tex
 Chapter 3.
 
-<./preliminarywork/images/GranulatedZinc.jpg, id=729, 3276.24pt x 982.67125pt>
+<./preliminarywork/images/GranulatedZinc.jpg, id=735, 3276.24pt x 982.67125pt>
 File: ./preliminarywork/images/GranulatedZinc.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/GranulatedZinc.jpg>
@@ -1522,8 +1524,9 @@ has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.27 
-      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/GranulatedZinc.j
-pg>] <./preliminarywork/Graphs/Burette.pdf, id=735, 597.23125pt x 333.245pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Granul
+atedZinc.jpg>]
+<./preliminarywork/Graphs/Burette.pdf, id=741, 597.23125pt x 333.245pt>
 File: ./preliminarywork/Graphs/Burette.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/Graphs/Burette.pdf>
@@ -1531,7 +1534,7 @@ Package pdftex.def Info: ./preliminarywork/Graphs/Burette.pdf used on input lin
 e 35.
 (pdftex.def)             Requested size: 345.0pt x 192.50423pt.
 
-<./preliminarywork/Graphs/GasSyringe.pdf, id=738, 597.23125pt x 361.35pt>
+<./preliminarywork/Graphs/GasSyringe.pdf, id=744, 597.23125pt x 361.35pt>
 File: ./preliminarywork/Graphs/GasSyringe.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/Graphs/GasSyringe.pdf>
@@ -1544,15 +1547,16 @@ line 45.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.48 
-      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/Burette.pdf>]
-[40pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3
-}) has been already used, duplicate ignored
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/Burett
+e.pdf>] [40pdfTeX warning (ext4): destination with the same identifier (name{fi
+gure.3.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.61 
-      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/GasSyringe.pdf>]
-<./preliminarywork/graphs/Temperature.pdf, id=765, 597.23125pt x 389.455pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/Graphs/GasSyr
+inge.pdf>]
+<./preliminarywork/graphs/Temperature.pdf, id=771, 597.23125pt x 389.455pt>
 File: ./preliminarywork/graphs/Temperature.pdf Graphic file (type pdf)
 
 <use ./preliminarywork/graphs/Temperature.pdf>
@@ -1560,7 +1564,7 @@ Package pdftex.def Info: ./preliminarywork/graphs/Temperature.pdf used on input
  line 64.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./preliminarywork/images/ThermometerSetUp.pdf, id=766, 597.23125pt x 341.275pt
+<./preliminarywork/images/ThermometerSetUp.pdf, id=772, 597.23125pt x 341.275pt
 >
 File: ./preliminarywork/images/ThermometerSetUp.pdf Graphic file (type pdf)
  <use ./preliminarywork/images/ThermometerSetUp.pdf>
@@ -1573,8 +1577,9 @@ input line 71.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.74 
-      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/graphs/Temperature.pdf>
-] <./preliminarywork/images/BeforePush.jpg, id=778, 3276.24pt x 2457.18pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/graphs/Temper
+ature.pdf>]
+<./preliminarywork/images/BeforePush.jpg, id=784, 3276.24pt x 2457.18pt>
 File: ./preliminarywork/images/BeforePush.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/BeforePush.jpg>
@@ -1587,8 +1592,9 @@ line 78.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.81 
-      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/ThermometerSetUp
-.pdf>] <./preliminarywork/images/AfterPush.jpg, id=790, 3276.24pt x 2457.18pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Thermo
+meterSetUp.pdf>]
+<./preliminarywork/images/AfterPush.jpg, id=796, 3276.24pt x 2457.18pt>
 File: ./preliminarywork/images/AfterPush.jpg Graphic file (type jpg)
 
 <use ./preliminarywork/images/AfterPush.jpg>
@@ -1601,16 +1607,16 @@ ine 85.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.88 
-      <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/BeforePush.jpg>]
-[44pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7
-}) has been already used, duplicate ignored
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/Before
+Push.jpg>] [44pdfTeX warning (ext4): destination with the same identifier (name
+{figure.3.7}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.100 
-       <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/AfterPush.jpg>]
-
-<./preliminarywork/images/GasSyringeRawData.pdf, id=804, 597.23125pt x 304.1362
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/After
+Push.jpg>]
+<./preliminarywork/images/GasSyringeRawData.pdf, id=810, 597.23125pt x 304.1362
 5pt>
 File: ./preliminarywork/images/GasSyringeRawData.pdf Graphic file (type pdf)
  <use ./preliminarywork/images/GasSyringeRawData.pdf>
@@ -1618,7 +1624,7 @@ Package pdftex.def Info: ./preliminarywork/images/GasSyringeRawData.pdf used on
  input line 114.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./preliminarywork/images/BuretteRawData.pdf, id=805, 597.23125pt x 304.13625pt
+<./preliminarywork/images/BuretteRawData.pdf, id=811, 597.23125pt x 304.13625pt
 >
 File: ./preliminarywork/images/BuretteRawData.pdf Graphic file (type pdf)
  <use ./preliminarywork/images/BuretteRawData.pdf>
@@ -1631,9 +1637,9 @@ put line 121.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.124 
-       <U:/git/ChemistryCoursework/LaTeX/preliminarywork/images/GasSyringeRawDa
-ta.pdf>]
-<./preliminarywork/images/TemperatureRawData.pdf, id=816, 597.23125pt x 304.136
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/preliminarywork/images/GasSy
+ringeRawData.pdf>]
+<./preliminarywork/images/TemperatureRawData.pdf, id=822, 597.23125pt x 304.136
 25pt>
 File: ./preliminarywork/images/TemperatureRawData.pdf Graphic file (type pdf)
  <use ./preliminarywork/images/TemperatureRawData.pdf>
@@ -1653,17 +1659,17 @@ te ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.15 \include{./PreliminaryWork/PreliminaryWork}
-                                                 <U:/git/ChemistryCoursework/La
-TeX/preliminarywork/images/BuretteRawData.pdf> <U:/git/ChemistryCoursework/LaTe
-X/preliminarywork/images/TemperatureRawData.pdf
+                                                 <C:/Users/Ben/git/ChemistryCou
+rsework/LaTeX/preliminarywork/images/BuretteRawData.pdf> <C:/Users/Ben/git/Chem
+istryCoursework/LaTeX/preliminarywork/images/TemperatureRawData.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/preliminary
-work/images/TemperatureRawData.pdf): PDF inclusion: multiple pdfs with page gro
-up included in a single page
->] (U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.tex
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/p
+reliminarywork/images/TemperatureRawData.pdf): PDF inclusion: multiple pdfs wit
+h page group included in a single page
+>] (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.tex
 Chapter 4.
 
-<./Experiment/Images/1NonCatalyst/2Molar.pdf, id=833, 597.23125pt x 304.13625pt
+<./Experiment/Images/1NonCatalyst/2Molar.pdf, id=839, 597.23125pt x 304.13625pt
 >
 File: ./Experiment/Images/1NonCatalyst/2Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/1NonCatalyst/2Molar.pdf>
@@ -1675,7 +1681,7 @@ put line 12.
 
 
 ]
-<./Experiment/Images/1NonCatalyst/24Molar.pdf, id=838, 597.23125pt x 304.13625p
+<./Experiment/Images/1NonCatalyst/24Molar.pdf, id=844, 597.23125pt x 304.13625p
 t>
 File: ./Experiment/Images/1NonCatalyst/24Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/1NonCatalyst/24Molar.pdf>
@@ -1683,7 +1689,7 @@ Package pdftex.def Info: ./Experiment/Images/1NonCatalyst/24Molar.pdf used on i
 nput line 20.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/1NonCatalyst/28Molar.pdf, id=839, 597.23125pt x 304.13625p
+<./Experiment/Images/1NonCatalyst/28Molar.pdf, id=845, 597.23125pt x 304.13625p
 t>
 File: ./Experiment/Images/1NonCatalyst/28Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/1NonCatalyst/28Molar.pdf>
@@ -1702,15 +1708,15 @@ l.30
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.30 
-      <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalyst/2Molar.p
-df> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalyst/24Molar.pd
-f
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalys
+t/2Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/1No
+nCatalyst/24Molar.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/1NonCatalyst/24Molar.pdf): PDF inclusion: multiple pdfs with page group 
-included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/1NonCatalyst/24Molar.pdf): PDF inclusion: multiple pdfs with p
+age group included in a single page
 >]
-<./Experiment/Images/1NonCatalyst/32Molar.pdf, id=858, 597.23125pt x 304.13625p
+<./Experiment/Images/1NonCatalyst/32Molar.pdf, id=864, 597.23125pt x 304.13625p
 t>
 File: ./Experiment/Images/1NonCatalyst/32Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/1NonCatalyst/32Molar.pdf>
@@ -1718,7 +1724,7 @@ Package pdftex.def Info: ./Experiment/Images/1NonCatalyst/32Molar.pdf used on i
 nput line 34.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/1NonCatalyst/36Molar.pdf, id=859, 597.23125pt x 304.13625p
+<./Experiment/Images/1NonCatalyst/36Molar.pdf, id=865, 597.23125pt x 304.13625p
 t>
 File: ./Experiment/Images/1NonCatalyst/36Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/1NonCatalyst/36Molar.pdf>
@@ -1737,15 +1743,15 @@ l.44
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.44 
-      <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalyst/28Molar.
-pdf> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalyst/32Molar.p
-df
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalys
+t/28Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/1N
+onCatalyst/32Molar.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/1NonCatalyst/32Molar.pdf): PDF inclusion: multiple pdfs with page group 
-included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/1NonCatalyst/32Molar.pdf): PDF inclusion: multiple pdfs with p
+age group included in a single page
 >]
-<./Experiment/Images/1NonCatalyst/40Molar.pdf, id=877, 597.23125pt x 304.13625p
+<./Experiment/Images/1NonCatalyst/40Molar.pdf, id=883, 597.23125pt x 304.13625p
 t>
 File: ./Experiment/Images/1NonCatalyst/40Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/1NonCatalyst/40Molar.pdf>
@@ -1764,15 +1770,15 @@ l.55
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.55 
-      <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalyst/36Molar.
-pdf> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalyst/40Molar.p
-df
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/1NonCatalys
+t/36Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/1N
+onCatalyst/40Molar.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/1NonCatalyst/40Molar.pdf): PDF inclusion: multiple pdfs with page group 
-included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/1NonCatalyst/40Molar.pdf): PDF inclusion: multiple pdfs with p
+age group included in a single page
 >]
-<./Experiment/Images/2FixedCatalyst/02Molar.pdf, id=896, 597.23125pt x 304.1362
+<./Experiment/Images/2FixedCatalyst/02Molar.pdf, id=902, 597.23125pt x 304.1362
 5pt>
 File: ./Experiment/Images/2FixedCatalyst/02Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/2FixedCatalyst/02Molar.pdf>
@@ -1780,7 +1786,7 @@ Package pdftex.def Info: ./Experiment/Images/2FixedCatalyst/02Molar.pdf used on
  input line 59.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/2FixedCatalyst/04Molar.pdf, id=897, 597.23125pt x 304.1362
+<./Experiment/Images/2FixedCatalyst/04Molar.pdf, id=903, 597.23125pt x 304.1362
 5pt>
 File: ./Experiment/Images/2FixedCatalyst/04Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/2FixedCatalyst/04Molar.pdf>
@@ -1793,9 +1799,9 @@ Package pdftex.def Info: ./Experiment/Images/2FixedCatalyst/04Molar.pdf used on
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.69 
-      <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatalyst/02Mola
-r.pdf>]
-<./Experiment/Images/2FixedCatalyst/06Molar.pdf, id=909, 597.23125pt x 304.1362
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatal
+yst/02Molar.pdf>]
+<./Experiment/Images/2FixedCatalyst/06Molar.pdf, id=915, 597.23125pt x 304.1362
 5pt>
 File: ./Experiment/Images/2FixedCatalyst/06Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/2FixedCatalyst/06Molar.pdf>
@@ -1803,7 +1809,7 @@ Package pdftex.def Info: ./Experiment/Images/2FixedCatalyst/06Molar.pdf used on
  input line 73.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/2FixedCatalyst/08Molar.pdf, id=910, 597.23125pt x 304.1362
+<./Experiment/Images/2FixedCatalyst/08Molar.pdf, id=916, 597.23125pt x 304.1362
 5pt>
 File: ./Experiment/Images/2FixedCatalyst/08Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/2FixedCatalyst/08Molar.pdf>
@@ -1822,15 +1828,15 @@ l.83
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.83 
-      <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatalyst/04Mola
-r.pdf> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatalyst/06Mol
-ar.pdf
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatal
+yst/04Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/
+2FixedCatalyst/06Molar.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/2FixedCatalyst/06Molar.pdf): PDF inclusion: multiple pdfs with page grou
-p included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/2FixedCatalyst/06Molar.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
 >]
-<./Experiment/Images/2FixedCatalyst/10Molar.pdf, id=928, 597.23125pt x 304.1362
+<./Experiment/Images/2FixedCatalyst/10Molar.pdf, id=934, 597.23125pt x 304.1362
 5pt>
 File: ./Experiment/Images/2FixedCatalyst/10Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/2FixedCatalyst/10Molar.pdf>
@@ -1838,7 +1844,7 @@ Package pdftex.def Info: ./Experiment/Images/2FixedCatalyst/10Molar.pdf used on
  input line 87.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/2FixedCatalyst/12Molar.pdf, id=929, 597.23125pt x 304.1362
+<./Experiment/Images/2FixedCatalyst/12Molar.pdf, id=935, 597.23125pt x 304.1362
 5pt>
 File: ./Experiment/Images/2FixedCatalyst/12Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/2FixedCatalyst/12Molar.pdf>
@@ -1857,15 +1863,15 @@ l.97
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.97 
-      <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatalyst/08Mola
-r.pdf> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatalyst/10Mol
-ar.pdf
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatal
+yst/08Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/
+2FixedCatalyst/10Molar.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/2FixedCatalyst/10Molar.pdf): PDF inclusion: multiple pdfs with page grou
-p included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/2FixedCatalyst/10Molar.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
 >]
-<./Experiment/Images/3ChangeCatalyst/002Molar.pdf, id=949, 597.23125pt x 304.13
+<./Experiment/Images/3ChangeCatalyst/002Molar.pdf, id=955, 597.23125pt x 304.13
 625pt>
 File: ./Experiment/Images/3ChangeCatalyst/002Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/3ChangeCatalyst/002Molar.pdf>
@@ -1878,9 +1884,9 @@ on input line 112.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.115 
-       <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCatalyst/12Mol
-ar.pdf>]
-<./Experiment/Images/3ChangeCatalyst/003Molar.pdf, id=962, 597.23125pt x 304.13
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/2FixedCata
+lyst/12Molar.pdf>]
+<./Experiment/Images/3ChangeCatalyst/003Molar.pdf, id=968, 597.23125pt x 304.13
 625pt>
 File: ./Experiment/Images/3ChangeCatalyst/003Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/3ChangeCatalyst/003Molar.pdf>
@@ -1888,7 +1894,7 @@ Package pdftex.def Info: ./Experiment/Images/3ChangeCatalyst/003Molar.pdf used
 on input line 119.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/3ChangeCatalyst/004Molar.pdf, id=963, 597.23125pt x 304.13
+<./Experiment/Images/3ChangeCatalyst/004Molar.pdf, id=969, 597.23125pt x 304.13
 625pt>
 File: ./Experiment/Images/3ChangeCatalyst/004Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/3ChangeCatalyst/004Molar.pdf>
@@ -1907,15 +1913,15 @@ l.129
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.129 
-       <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/3ChangeCatalyst/002M
-olar.pdf> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/3ChangeCatalyst/0
-03Molar.pdf
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/3ChangeCat
+alyst/002Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Imag
+es/3ChangeCatalyst/003Molar.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/3ChangeCatalyst/003Molar.pdf): PDF inclusion: multiple pdfs with page gr
-oup included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/3ChangeCatalyst/003Molar.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
 >]
-<./Experiment/Images/3ChangeCatalyst/005Molar.pdf, id=981, 597.23125pt x 304.13
+<./Experiment/Images/3ChangeCatalyst/005Molar.pdf, id=987, 597.23125pt x 304.13
 625pt>
 File: ./Experiment/Images/3ChangeCatalyst/005Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/3ChangeCatalyst/005Molar.pdf>
@@ -1923,7 +1929,7 @@ Package pdftex.def Info: ./Experiment/Images/3ChangeCatalyst/005Molar.pdf used
 on input line 133.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/3ChangeCatalyst/006Molar.pdf, id=982, 597.23125pt x 304.13
+<./Experiment/Images/3ChangeCatalyst/006Molar.pdf, id=988, 597.23125pt x 304.13
 625pt>
 File: ./Experiment/Images/3ChangeCatalyst/006Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/3ChangeCatalyst/006Molar.pdf>
@@ -1942,15 +1948,15 @@ l.143
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.143 
-       <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/3ChangeCatalyst/004M
-olar.pdf> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/3ChangeCatalyst/0
-05Molar.pdf
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/3ChangeCat
+alyst/004Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Imag
+es/3ChangeCatalyst/005Molar.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/3ChangeCatalyst/005Molar.pdf): PDF inclusion: multiple pdfs with page gr
-oup included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/3ChangeCatalyst/005Molar.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
 >]
-<./Experiment/Images/4DifferentCatalysts/Copper.pdf, id=1003, 597.23125pt x 304
+<./Experiment/Images/4DifferentCatalysts/Copper.pdf, id=1009, 597.23125pt x 304
 .13625pt>
 File: ./Experiment/Images/4DifferentCatalysts/Copper.pdf Graphic file (type pdf
 )
@@ -1964,9 +1970,9 @@ d on input line 164.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.166 \end{figure}
-                   <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/3ChangeC
-atalyst/006Molar.pdf>]
-<./Experiment/Images/4DifferentCatalysts/Nickel.pdf, id=1015, 597.23125pt x 304
+                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Image
+s/3ChangeCatalyst/006Molar.pdf>]
+<./Experiment/Images/4DifferentCatalysts/Nickel.pdf, id=1021, 597.23125pt x 304
 .13625pt>
 File: ./Experiment/Images/4DifferentCatalysts/Nickel.pdf Graphic file (type pdf
 )
@@ -1975,7 +1981,7 @@ Package pdftex.def Info: ./Experiment/Images/4DifferentCatalysts/Nickel.pdf use
 d on input line 171.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/4DifferentCatalysts/Manganese.pdf, id=1016, 597.23125pt x 
+<./Experiment/Images/4DifferentCatalysts/Manganese.pdf, id=1022, 597.23125pt x 
 304.13625pt>
 File: ./Experiment/Images/4DifferentCatalysts/Manganese.pdf Graphic file (type 
 pdf)
@@ -1996,15 +2002,15 @@ l.181
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.181 
-       <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/4DifferentCatalysts/
-Copper.pdf> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/4DifferentCatal
-ysts/Nickel.pdf
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/4Different
+Catalysts/Copper.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Im
+ages/4DifferentCatalysts/Nickel.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/4DifferentCatalysts/Nickel.pdf): PDF inclusion: multiple pdfs with page 
-group included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/4DifferentCatalysts/Nickel.pdf): PDF inclusion: multiple pdfs 
+with page group included in a single page
 >]
-<./Experiment/Images/4DifferentCatalysts/Iron.pdf, id=1034, 597.23125pt x 304.1
+<./Experiment/Images/4DifferentCatalysts/Iron.pdf, id=1040, 597.23125pt x 304.1
 3625pt>
 File: ./Experiment/Images/4DifferentCatalysts/Iron.pdf Graphic file (type pdf)
  <use ./Experiment/Images/4DifferentCatalysts/Iron.pdf>
@@ -2023,15 +2029,15 @@ l.193
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.193 
-       <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/4DifferentCatalysts/
-Manganese.pdf> <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/4DifferentCa
-talysts/Iron.pdf
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/4Different
+Catalysts/Manganese.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment
+/Images/4DifferentCatalysts/Iron.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/4DifferentCatalysts/Iron.pdf): PDF inclusion: multiple pdfs with page gr
-oup included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/4DifferentCatalysts/Iron.pdf): PDF inclusion: multiple pdfs wi
+th page group included in a single page
 >]
-<./Experiment/Images/5Solubility/1Molar.pdf, id=1055, 597.23125pt x 304.13625pt
+<./Experiment/Images/5Solubility/1Molar.pdf, id=1061, 597.23125pt x 304.13625pt
 >
 File: ./Experiment/Images/5Solubility/1Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/5Solubility/1Molar.pdf>
@@ -2039,7 +2045,7 @@ Package pdftex.def Info: ./Experiment/Images/5Solubility/1Molar.pdf used on inp
 ut line 197.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/5Solubility/2Molar.pdf, id=1056, 597.23125pt x 304.13625pt
+<./Experiment/Images/5Solubility/2Molar.pdf, id=1062, 597.23125pt x 304.13625pt
 >
 File: ./Experiment/Images/5Solubility/2Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/5Solubility/2Molar.pdf>
@@ -2052,9 +2058,9 @@ ut line 204.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.207 
-       <U:/git/ChemistryCoursework/LaTeX/Experiment/Images/5Solubility/1Molar.p
-df>]
-<./Experiment/Images/5Solubility/3Molar.pdf, id=1069, 597.23125pt x 304.13625pt
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Experiment/Images/5Solubilit
+y/1Molar.pdf>]
+<./Experiment/Images/5Solubility/3Molar.pdf, id=1075, 597.23125pt x 304.13625pt
 >
 File: ./Experiment/Images/5Solubility/3Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/5Solubility/3Molar.pdf>
@@ -2062,7 +2068,7 @@ Package pdftex.def Info: ./Experiment/Images/5Solubility/3Molar.pdf used on inp
 ut line 211.
 (pdftex.def)             Requested size: 345.0pt x 175.6891pt.
 
-<./Experiment/Images/5Solubility/4Molar.pdf, id=1070, 597.23125pt x 304.13625pt
+<./Experiment/Images/5Solubility/4Molar.pdf, id=1076, 597.23125pt x 304.13625pt
 >
 File: ./Experiment/Images/5Solubility/4Molar.pdf Graphic file (type pdf)
  <use ./Experiment/Images/5Solubility/4Molar.pdf>
@@ -2082,24 +2088,24 @@ he same identifier (name{figure.4.24}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.16 \include{./Experiment/Experiment}
-                                       <U:/git/ChemistryCoursework/LaTeX/Experi
-ment/Images/5Solubility/2Molar.pdf> <U:/git/ChemistryCoursework/LaTeX/Experimen
-t/Images/5Solubility/3Molar.pdf
+                                       <C:/Users/Ben/git/ChemistryCoursework/La
+TeX/Experiment/Images/5Solubility/2Molar.pdf> <C:/Users/Ben/git/ChemistryCourse
+work/LaTeX/Experiment/Images/5Solubility/3Molar.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Experiment/
-Images/5Solubility/3Molar.pdf): PDF inclusion: multiple pdfs with page group in
-cluded in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/E
+xperiment/Images/5Solubility/3Molar.pdf): PDF inclusion: multiple pdfs with pag
+e group included in a single page
 >] [62pdfTeX warning (ext4): destination with the same identifier (name{figure.
 4.25}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.16 \include{./Experiment/Experiment}
-                                       <U:/git/ChemistryCoursework/LaTeX/Experi
-ment/Images/5Solubility/4Molar.pdf>]
-(U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.tex
+                                       <C:/Users/Ben/git/ChemistryCoursework/La
+TeX/Experiment/Images/5Solubility/4Molar.pdf>]
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.tex
 Chapter 5.
-<./Analysis/Images/1NonCatalyst/2Molar.pdf, id=1100, 597.23125pt x 361.35pt>
+<./Analysis/Images/1NonCatalyst/2Molar.pdf, id=1106, 597.23125pt x 361.35pt>
 File: ./Analysis/Images/1NonCatalyst/2Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/2Molar.pdf>
@@ -2111,7 +2117,7 @@ t line 14.
 
 
 ]
-<./Analysis/Images/1NonCatalyst/24Molar.pdf, id=1105, 597.23125pt x 361.35pt>
+<./Analysis/Images/1NonCatalyst/24Molar.pdf, id=1111, 597.23125pt x 361.35pt>
 File: ./Analysis/Images/1NonCatalyst/24Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/24Molar.pdf>
@@ -2124,9 +2130,9 @@ ut line 25.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.28 
-      <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/2Molar.pdf
->]
-<./Analysis/Images/1NonCatalyst/28Molar.pdf, id=1117, 597.23125pt x 361.35pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/
+2Molar.pdf>]
+<./Analysis/Images/1NonCatalyst/28Molar.pdf, id=1123, 597.23125pt x 361.35pt>
 File: ./Analysis/Images/1NonCatalyst/28Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/28Molar.pdf>
@@ -2139,9 +2145,9 @@ ut line 36.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.39 
-      <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/24Molar.pd
-f>]
-<./Analysis/Images/1NonCatalyst/32Molar.pdf, id=1129, 597.23125pt x 361.35pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/
+24Molar.pdf>]
+<./Analysis/Images/1NonCatalyst/32Molar.pdf, id=1135, 597.23125pt x 361.35pt>
 File: ./Analysis/Images/1NonCatalyst/32Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/32Molar.pdf>
@@ -2154,9 +2160,9 @@ ut line 47.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.50 
-      <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/28Molar.pd
-f>]
-<./Analysis/Images/1NonCatalyst/36Molar.pdf, id=1142, 597.23125pt x 361.35pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/
+28Molar.pdf>]
+<./Analysis/Images/1NonCatalyst/36Molar.pdf, id=1148, 597.23125pt x 361.35pt>
 File: ./Analysis/Images/1NonCatalyst/36Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/36Molar.pdf>
@@ -2169,9 +2175,9 @@ ut line 58.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.61 
-      <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/32Molar.pd
-f>]
-<./Analysis/Images/1NonCatalyst/40Molar.pdf, id=1154, 597.23125pt x 361.35pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/
+32Molar.pdf>]
+<./Analysis/Images/1NonCatalyst/40Molar.pdf, id=1160, 597.23125pt x 361.35pt>
 File: ./Analysis/Images/1NonCatalyst/40Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/40Molar.pdf>
@@ -2184,9 +2190,9 @@ ut line 69.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.72 
-      <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/36Molar.pd
-f>]
-<./Analysis/Images/1NonCatalyst/Rates.pdf, id=1166, 597.23125pt x 247.92625pt>
+      <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/
+36Molar.pdf>]
+<./Analysis/Images/1NonCatalyst/Rates.pdf, id=1172, 597.23125pt x 247.92625pt>
 File: ./Analysis/Images/1NonCatalyst/Rates.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/1NonCatalyst/Rates.pdf>
@@ -2194,7 +2200,7 @@ Package pdftex.def Info: ./Analysis/Images/1NonCatalyst/Rates.pdf used on input
  line 82.
 (pdftex.def)             Requested size: 345.0pt x 143.21852pt.
 
-<./Analysis/Images/1NonCatalyst/ProgressGraph.pdf, id=1167, 597.23125pt x 389.4
+<./Analysis/Images/1NonCatalyst/ProgressGraph.pdf, id=1173, 597.23125pt x 389.4
 55pt>
 File: ./Analysis/Images/1NonCatalyst/ProgressGraph.pdf Graphic file (type pdf)
  <use ./Analysis/Images/1NonCatalyst/ProgressGraph.pdf>
@@ -2213,22 +2219,22 @@ ame{figure.5.7}) has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.91 \end{figure}
-                  <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalys
-t/40Molar.pdf> <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/R
-ates.pdf
+                  <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1
+NonCatalyst/40Molar.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/I
+mages/1NonCatalyst/Rates.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Analysis/Im
-ages/1NonCatalyst/Rates.pdf): PDF inclusion: multiple pdfs with page group incl
-uded in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/A
+nalysis/Images/1NonCatalyst/Rates.pdf): PDF inclusion: multiple pdfs with page 
+group included in a single page
 >] [70pdfTeX warning (ext4): destination with the same identifier (name{figure.
 5.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.115 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst/ProgressG
-raph.pdf>]
-<./Analysis/Images/2Catalysed/02Molar.pdf, id=1202, 597.23125pt x 389.455pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/1NonCatalyst
+/ProgressGraph.pdf>]
+<./Analysis/Images/2Catalysed/02Molar.pdf, id=1208, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/2Catalysed/02Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/02Molar.pdf>
@@ -2236,7 +2242,7 @@ Package pdftex.def Info: ./Analysis/Images/2Catalysed/02Molar.pdf used on input
  line 118.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./Analysis/Images/2Catalysed/04Molar.pdf, id=1203, 597.23125pt x 389.455pt>
+<./Analysis/Images/2Catalysed/04Molar.pdf, id=1209, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/2Catalysed/04Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/04Molar.pdf>
@@ -2249,9 +2255,9 @@ Package pdftex.def Info: ./Analysis/Images/2Catalysed/04Molar.pdf used on input
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.132 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/02Molar.pdf
->]
-<./Analysis/Images/2Catalysed/06Molar.pdf, id=1215, 597.23125pt x 389.455pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
+2Molar.pdf>]
+<./Analysis/Images/2Catalysed/06Molar.pdf, id=1221, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/2Catalysed/06Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/06Molar.pdf>
@@ -2264,9 +2270,9 @@ Package pdftex.def Info: ./Analysis/Images/2Catalysed/06Molar.pdf used on input
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.143 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/04Molar.pdf
->]
-<./Analysis/Images/2Catalysed/08Molar.pdf, id=1228, 597.23125pt x 389.455pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
+4Molar.pdf>]
+<./Analysis/Images/2Catalysed/08Molar.pdf, id=1234, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/2Catalysed/08Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/08Molar.pdf>
@@ -2279,9 +2285,9 @@ Package pdftex.def Info: ./Analysis/Images/2Catalysed/08Molar.pdf used on input
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.154 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/06Molar.pdf
->]
-<./Analysis/Images/2Catalysed/10Molar.pdf, id=1240, 597.23125pt x 389.455pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
+6Molar.pdf>]
+<./Analysis/Images/2Catalysed/10Molar.pdf, id=1246, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/2Catalysed/10Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/10Molar.pdf>
@@ -2294,9 +2300,9 @@ Package pdftex.def Info: ./Analysis/Images/2Catalysed/10Molar.pdf used on input
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.165 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/08Molar.pdf
->]
-<./Analysis/Images/2Catalysed/12Molar.pdf, id=1252, 597.23125pt x 389.455pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/0
+8Molar.pdf>]
+<./Analysis/Images/2Catalysed/12Molar.pdf, id=1258, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/2Catalysed/12Molar.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/12Molar.pdf>
@@ -2309,9 +2315,9 @@ Package pdftex.def Info: ./Analysis/Images/2Catalysed/12Molar.pdf used on input
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.176 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/10Molar.pdf
->]
-<./Analysis/Images/2Catalysed/Rates.pdf, id=1264, 597.23125pt x 247.92625pt>
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/1
+0Molar.pdf>]
+<./Analysis/Images/2Catalysed/Rates.pdf, id=1270, 597.23125pt x 247.92625pt>
 File: ./Analysis/Images/2Catalysed/Rates.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/2Catalysed/Rates.pdf>
@@ -2324,9 +2330,9 @@ ine 186.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.189 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/12Molar.pdf
->]
-<./Analysis/Images/2Catalysed/ProgressGraph.pdf, id=1276, 597.23125pt x 389.455
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/1
+2Molar.pdf>]
+<./Analysis/Images/2Catalysed/ProgressGraph.pdf, id=1282, 597.23125pt x 389.455
 pt>
 File: ./Analysis/Images/2Catalysed/ProgressGraph.pdf Graphic file (type pdf)
  <use ./Analysis/Images/2Catalysed/ProgressGraph.pdf>
@@ -2345,14 +2351,15 @@ l.198
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.198 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/Rates.pdf> 
-<U:/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/ProgressGraph.pdf
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalysed/R
+ates.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/2Catalyse
+d/ProgressGraph.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Analysis/Im
-ages/2Catalysed/ProgressGraph.pdf): PDF inclusion: multiple pdfs with page grou
-p included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/A
+nalysis/Images/2Catalysed/ProgressGraph.pdf): PDF inclusion: multiple pdfs with
+ page group included in a single page
 >]
-<./Analysis/Images/3VaryCopperSulfate/001Molar.pdf, id=1300, 597.23125pt x 389.
+<./Analysis/Images/3VaryCopperSulfate/001Molar.pdf, id=1306, 597.23125pt x 389.
 455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/001Molar.pdf Graphic file (type pdf)
 
@@ -2361,7 +2368,7 @@ Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/001Molar.pdf used
  on input line 208.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./Analysis/Images/3VaryCopperSulfate/002Molar.pdf, id=1301, 597.23125pt x 389.
+<./Analysis/Images/3VaryCopperSulfate/002Molar.pdf, id=1307, 597.23125pt x 389.
 455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/002Molar.pdf Graphic file (type pdf)
 
@@ -2375,9 +2382,9 @@ Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/002Molar.pdf used
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.221 \end{figure}
-                   <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCoppe
-rSulfate/001Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/003Molar.pdf, id=1314, 597.23125pt x 389.
+                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/
+3VaryCopperSulfate/001Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/003Molar.pdf, id=1320, 597.23125pt x 389.
 455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/003Molar.pdf Graphic file (type pdf)
 
@@ -2391,9 +2398,9 @@ Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/003Molar.pdf used
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.233 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperSulfate/002
-Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/004Molar.pdf, id=1326, 597.23125pt x 389.
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
+ulfate/002Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/004Molar.pdf, id=1332, 597.23125pt x 389.
 455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/004Molar.pdf Graphic file (type pdf)
 
@@ -2407,9 +2414,9 @@ Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/004Molar.pdf used
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.244 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperSulfate/003
-Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/005Molar.pdf, id=1338, 597.23125pt x 389.
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
+ulfate/003Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/005Molar.pdf, id=1344, 597.23125pt x 389.
 455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/005Molar.pdf Graphic file (type pdf)
 
@@ -2423,9 +2430,9 @@ Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/005Molar.pdf used
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.255 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperSulfate/004
-Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/006Molar.pdf, id=1350, 597.23125pt x 389.
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
+ulfate/004Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/006Molar.pdf, id=1356, 597.23125pt x 389.
 455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/006Molar.pdf Graphic file (type pdf)
 
@@ -2439,9 +2446,9 @@ Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/006Molar.pdf used
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.266 $
-       Gradient = \frac{70}{45}$ <U:/git/ChemistryCoursework/LaTeX/Analysis/Ima
-ges/3VaryCopperSulfate/005Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/Rates.pdf, id=1362, 597.23125pt x 247.926
+       Gradient = \frac{70}{45}$ <C:/Users/Ben/git/ChemistryCoursework/LaTeX/An
+alysis/Images/3VaryCopperSulfate/005Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/Rates.pdf, id=1368, 597.23125pt x 247.926
 25pt>
 File: ./Analysis/Images/3VaryCopperSulfate/Rates.pdf Graphic file (type pdf)
  <use ./Analysis/Images/3VaryCopperSulfate/Rates.pdf>
@@ -2454,9 +2461,9 @@ Package pdftex.def Info: ./Analysis/Images/3VaryCopperSulfate/Rates.pdf used on
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.278 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperSulfate/006
-Molar.pdf>]
-<./Analysis/Images/3VaryCopperSulfate/ProgressGraph.pdf, id=1374, 597.23125pt x
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
+ulfate/006Molar.pdf>]
+<./Analysis/Images/3VaryCopperSulfate/ProgressGraph.pdf, id=1380, 597.23125pt x
  389.455pt>
 File: ./Analysis/Images/3VaryCopperSulfate/ProgressGraph.pdf Graphic file (type
  pdf)
@@ -2477,15 +2484,15 @@ l.287
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.287 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperSulfate/Rat
-es.pdf> <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperSulfate/Pr
-ogressGraph.pdf
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3VaryCopperS
+ulfate/Rates.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/3
+VaryCopperSulfate/ProgressGraph.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Analysis/Im
-ages/3VaryCopperSulfate/ProgressGraph.pdf): PDF inclusion: multiple pdfs with p
-age group included in a single page
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/A
+nalysis/Images/3VaryCopperSulfate/ProgressGraph.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
 >]
-<./Analysis/Images/4DifferentCatalysts/Nickel.pdf, id=1400, 597.23125pt x 389.4
+<./Analysis/Images/4DifferentCatalysts/Nickel.pdf, id=1406, 597.23125pt x 389.4
 55pt>
 File: ./Analysis/Images/4DifferentCatalysts/Nickel.pdf Graphic file (type pdf)
  <use ./Analysis/Images/4DifferentCatalysts/Nickel.pdf>
@@ -2493,7 +2500,7 @@ Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Nickel.pdf used
 on input line 301.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
 
-<./Analysis/Images/4DifferentCatalysts/Manganese.pdf, id=1401, 597.23125pt x 38
+<./Analysis/Images/4DifferentCatalysts/Manganese.pdf, id=1407, 597.23125pt x 38
 9.455pt>
 File: ./Analysis/Images/4DifferentCatalysts/Manganese.pdf Graphic file (type pd
 f)
@@ -2507,9 +2514,9 @@ ed on input line 306.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.309 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCatalysts/Ni
-ckel.pdf>]
-<./Analysis/Images/4DifferentCatalysts/Iron.pdf, id=1413, 597.23125pt x 389.455
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCa
+talysts/Nickel.pdf>]
+<./Analysis/Images/4DifferentCatalysts/Iron.pdf, id=1419, 597.23125pt x 389.455
 pt>
 File: ./Analysis/Images/4DifferentCatalysts/Iron.pdf Graphic file (type pdf)
  <use ./Analysis/Images/4DifferentCatalysts/Iron.pdf>
@@ -2522,9 +2529,9 @@ Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Iron.pdf used on
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.314 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCatalysts/Ma
-nganese.pdf>]
-<./Analysis/Images/4DifferentCatalysts/Rates.pdf, id=1425, 597.23125pt x 247.92
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCa
+talysts/Manganese.pdf>]
+<./Analysis/Images/4DifferentCatalysts/Rates.pdf, id=1431, 597.23125pt x 247.92
 625pt>
 File: ./Analysis/Images/4DifferentCatalysts/Rates.pdf Graphic file (type pdf)
  <use ./Analysis/Images/4DifferentCatalysts/Rates.pdf>
@@ -2532,7 +2539,7 @@ Package pdftex.def Info: ./Analysis/Images/4DifferentCatalysts/Rates.pdf used o
 n input line 318.
 (pdftex.def)             Requested size: 345.0pt x 143.21852pt.
 
-<./Analysis/Images/4DifferentCatalysts/Comparison.pdf, id=1426, 597.23125pt x 3
+<./Analysis/Images/4DifferentCatalysts/Comparison.pdf, id=1432, 597.23125pt x 3
 89.455pt>
 File: ./Analysis/Images/4DifferentCatalysts/Comparison.pdf Graphic file (type p
 df)
@@ -2552,42 +2559,44 @@ l.329
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.329 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCatalysts/Ir
-on.pdf> <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCatalysts/R
-ates.pdf
+       <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCa
+talysts/Iron.pdf> <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/4
+DifferentCatalysts/Rates.pdf
 
-pdfTeX warning: pdflatex.EXE (file U:/git/ChemistryCoursework/LaTeX/Analysis/Im
-ages/4DifferentCatalysts/Rates.pdf): PDF inclusion: multiple pdfs with page gro
-up included in a single page
->] <./Analysis/Images/Solubility.pdf, id=1444, 597.23125pt x 389.455pt>
+pdfTeX warning: pdflatex.EXE (file C:/Users/Ben/git/ChemistryCoursework/LaTeX/A
+nalysis/Images/4DifferentCatalysts/Rates.pdf): PDF inclusion: multiple pdfs wit
+h page group included in a single page
+>] <./Analysis/Images/Solubility.pdf, id=1450, 597.23125pt x 389.455pt>
 File: ./Analysis/Images/Solubility.pdf Graphic file (type pdf)
 
 <use ./Analysis/Images/Solubility.pdf>
-Package pdftex.def Info: ./Analysis/Images/Solubility.pdf used on input line 33
-8.
+Package pdftex.def Info: ./Analysis/Images/Solubility.pdf used on input line 34
+1.
 (pdftex.def)             Requested size: 345.0pt x 224.97484pt.
  [88pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 29}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.341 
-       <U:/git/ChemistryCoursework/LaTeX/Analysis/Images/4DifferentCatalysts/Co
-mparison.pdf>]) [89pdfTeX warning (ext4): destination with the same identifier 
-(name{figure.5.30}) has been already used, duplicate ignored
+l.343 \end{figure}
+                   <C:/Users/Ben/git/ChemistryCoursework/LaTeX/Analysis/Images/
+4DifferentCatalysts/Comparison.pdf>] [89pdfTeX warning (ext4): destination with
+ the same identifier (name{figure.5.30}) has been already used, duplicate ignor
+ed
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.17 \include{./Analysis/Analysis}
-                                   <U:/git/ChemistryCoursework/LaTeX/Analysis/I
-mages/Solubility.pdf>]
-(U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.tex
+l.357 \item $
+             Number \; of \; Moles = \frac{Mass}{Molecular Mass}$ <C:/Users/Ben
+/git/ChemistryCoursework/LaTeX/Analysis/Images/Solubility.pdf>]) [90]
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.tex
 Chapter 6.
-[90
+[91
 
 
 
-] [91]) [92] (U:\git\ChemistryCoursework\LaTeX\References\References.tex
+] [92]) [93]
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.tex
 Chapter 7.
 
 Overfull \hbox (16.77559pt too wide) in paragraph at lines 10--11
@@ -2619,7 +2628,7 @@ $\OT1/cmtt/m/n/10 edu / Physical _ Chemistry / Kinetics / Reaction _ Rates / Me
 asuring _ Reaction _$
  []
 
-[93
+[94
 
 
 
@@ -2689,7 +2698,7 @@ Overfull \hbox (130.02376pt too wide) in paragraph at lines 62--63
 heartupdate . com / prevention / ph-[]body-[]influence-[]daily-[]life _$
  []
 
-[94]
+[95]
 Overfull \hbox (6.80496pt too wide) in paragraph at lines 68--69
 []\OT1/cmr/m/n/10 Figure 2.7 - Cop-per Ion d Or-bital Rep-re-sen-ta-tion - []$\
 OT1/cmtt/m/n/10 http : / / www . chemguide .$
@@ -2731,17 +2740,17 @@ $\OT1/cmtt/m/n/10 za / science / grade-[]12 / 07-[]rate-[]and-[]extent-[]of-[]r
 eaction / 07-[]rate-[]and-[]extent-[]of-[]reaction-[]03 .$
  []
 
-) [95]
+) [96]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
- (U:\git\ChemistryCoursework\LaTeX\coursework.aux
-(U:\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
-(U:\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
-(U:\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux)
-(U:\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
-(U:\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
-(U:\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
-(U:\git\ChemistryCoursework\LaTeX\References\References.aux))
+ (C:\Users\Ben\git\ChemistryCoursework\LaTeX\coursework.aux
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Abstract\Abstract.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Planning\Planning.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\PreliminaryWork\PreliminaryWork.aux
+) (C:\Users\Ben\git\ChemistryCoursework\LaTeX\Experiment\Experiment.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Analysis\Analysis.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\Evaluation\Evaluation.aux)
+(C:\Users\Ben\git\ChemistryCoursework\LaTeX\References\References.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
 Package rerunfilecheck Info: File `coursework.out' has not changed.
@@ -2753,13 +2762,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
  ) 
 Here is how much of TeX's memory you used:
- 10715 strings out of 493921
- 165207 string characters out of 3144876
- 282115 words of memory out of 3000000
+ 10722 strings out of 493921
+ 165544 string characters out of 3144881
+ 281115 words of memory out of 3000000
  13428 multiletter control sequences out of 15000+200000
  10403 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 37i,12n,45p,1333b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,12n,45p,1343b,544s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
@@ -2775,9 +2784,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX
 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files (x86)/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on coursework.pdf (96 pages, 7416686 bytes).
+Output written on coursework.pdf (97 pages, 7423042 bytes).
 PDF statistics:
- 1681 PDF objects out of 1728 (max. 8388607)
- 323 named destinations out of 1000 (max. 500000)
+ 1694 PDF objects out of 1728 (max. 8388607)
+ 330 named destinations out of 1000 (max. 500000)
  1097 words of extra memory for PDF output out of 10000 (max. 10000000)
 

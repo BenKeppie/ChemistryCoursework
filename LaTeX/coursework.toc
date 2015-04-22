@@ -84,11 +84,11 @@
 \contentsline {section}{\numberline {5.2}Zinc and Sulfuric Acid With a Copper Sulfate Catalyst}{72}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Sulfuric Acid}{72}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {5.2.2}Copper Sulfate}{79}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Comparing Catalysts}{86}{section.5.3}
-\contentsline {section}{\numberline {5.4}Investigating the Solubility of Hydrogen}{90}{section.5.4}
-\contentsline {chapter}{\numberline {6}Evaluation}{92}{chapter.6}
-\contentsline {section}{\numberline {6.1}Equipment}{92}{section.6.1}
-\contentsline {section}{\numberline {6.2}Problems}{93}{section.6.2}
-\contentsline {chapter}{\numberline {7}References}{95}{chapter.7}
-\contentsline {section}{\numberline {7.1}Sources}{95}{section.7.1}
-\contentsline {section}{\numberline {7.2}Figures}{96}{section.7.2}
+\contentsline {section}{\numberline {5.3}Comparing Catalysts}{87}{section.5.3}
+\contentsline {section}{\numberline {5.4}Investigating the Solubility of Hydrogen}{92}{section.5.4}
+\contentsline {chapter}{\numberline {6}Evaluation}{94}{chapter.6}
+\contentsline {section}{\numberline {6.1}Equipment}{94}{section.6.1}
+\contentsline {section}{\numberline {6.2}Problems}{95}{section.6.2}
+\contentsline {chapter}{\numberline {7}References}{97}{chapter.7}
+\contentsline {section}{\numberline {7.1}Sources}{97}{section.7.1}
+\contentsline {section}{\numberline {7.2}Figures}{98}{section.7.2}
